@@ -1,0 +1,21 @@
+Normalization Statistics
+========================
+
+G-Tilde Fixes (ng~ -> ng): 13776
+Particle Variants (ñg -> ng): 10
+Protected 'ñ' instances: 142
+
+Diacritics Removed:
+  COMBINING ACUTE ACCENT: 28127
+  COMBINING CIRCUMFLEX ACCENT: 7805
+  COMBINING GRAVE ACCENT: 5344
+
+
+XLM-RoBERTa Compatibility Analysis
+==================================
+
+Metric                  | Raw Text      | Normalized    | Change
+------------------------|---------------|---------------|--------
+Total Tokens            | 258118        | 202935        | -21.38%
+Avg Tokens/Para         | 106.84        | 84.00         | 
+Unknown Tokens (<unk>)  | 0             | 0             | 
