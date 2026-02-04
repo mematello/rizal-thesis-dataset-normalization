@@ -1,0 +1,15 @@
+Normalization Report: Noli Me Tangere
+
+Total Rows: 4464
+Total Narrative Paragraphs: 4329
+
+Changes Applied:
+- G-Tilde Fixed: 24303
+- NG Variants Fixed: 1
+- Diacritics Removed: 44855
+- Ñ Protected: 312
+
+Final Validation:
+- Remaining G-Tilde: 0 (Must be 0)
+- Remaining Combining Marks (Mn): 0 (Must be 0)
+- Preserved Ñ/Ñ: 312 (Should match protected count ideally)

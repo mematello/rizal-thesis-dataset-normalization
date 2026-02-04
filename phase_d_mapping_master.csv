@@ -1,0 +1,115 @@
+source_form,target_form,rule_type,notes,apply_case_sensitive,word_boundary_only
+Aco,Ako,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Anac,Anak,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Baca,Baka,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Baga ma't,Bagamat,special,punctuation_merge,True,True
+Baga ma’t,Bagamat,special,punctuation_merge,True,True
+Bagama't,Bagamat,special,punctuation_merge,True,True
+Bagama’t,Bagamat,special,punctuation_merge,True,True
+Ca,Ka,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cahapon,Kahapon,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cahi,Kahi,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cahoy,Kahoy,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Caibigan,Kaibigan,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cailan,Kailan,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cami,Kami,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Canila,Kanila,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Canilang,Kanilang,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Canya,Kanya,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Capatid,Kapatid,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Capitang,Kapitang,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Casama,Kasama,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Castila,Kastila,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Catulad,Katulad,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Caya,Kaya,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cayo,Kayo,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cayong,Kayong,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cung,Kung,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Datapowa't,Datapwat,special,punctuation_merge,True,True
+Datapowa’t,Datapwat,special,punctuation_merge,True,True
+Datapuwa't,Datapwat,special,punctuation_merge,True,True
+Datapuwa’t,Datapwat,special,punctuation_merge,True,True
+Guinagawa,Ginagawa,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Guinawa,Ginawa,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Guinoo,Ginoo,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Guinoong,Ginoong,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Icaw,Ikaw,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Naguing,Naging,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Nguni't,Ngunit,special,punctuation_merge,True,True
+Nguni’t,Ngunit,special,punctuation_merge,True,True
+Pagca,Pagka,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Pagcatapos,Pagkatapos,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Saca,Saka,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Sapagca't,Sapagkat,special,punctuation_merge,True,True
+Sapagca’t,Sapagkat,special,punctuation_merge,True,True
+Subali't,Subalit,special,punctuation_merge,True,True
+Subali’t,Subalit,special,punctuation_merge,True,True
+Tungcol,Tungkol,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Wicang,Wikang,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+aco,ako,lexicon,Archaic C/Qu/Gui normalization,True,True
+acong,akong,lexicon,Archaic C/Qu/Gui normalization,True,True
+anac,anak,lexicon,Archaic C/Qu/Gui normalization,True,True
+baca,baka,lexicon,Archaic C/Qu/Gui normalization,True,True
+baga ma't,bagamat,special,punctuation_merge,False,True
+baga ma’t,bagamat,special,punctuation_merge,False,True
+bagama't,bagamat,special,punctuation_merge,False,True
+bagama’t,bagamat,special,punctuation_merge,False,True
+ca,ka,lexicon,Archaic C/Qu/Gui normalization,True,True
+caaway,kaaway,lexicon,Archaic C/Qu/Gui normalization,True,True
+cabataan,kabataan,lexicon,Archaic C/Qu/Gui normalization,True,True
+cabayo,kabayo,lexicon,Archaic C/Qu/Gui normalization,True,True
+cahapon,kahapon,lexicon,Archaic C/Qu/Gui normalization,True,True
+cahi,kahi,lexicon,Archaic C/Qu/Gui normalization,True,True
+cahoy,kahoy,lexicon,Archaic C/Qu/Gui normalization,True,True
+caibigan,kaibigan,lexicon,Archaic C/Qu/Gui normalization,True,True
+cailan,kailan,lexicon,Archaic C/Qu/Gui normalization,True,True
+calagayan,kalagayan,lexicon,Archaic C/Qu/Gui normalization,True,True
+caluluwa,kaluluwa,lexicon,Archaic C/Qu/Gui normalization,True,True
+camay,kamay,lexicon,Archaic C/Qu/Gui normalization,True,True
+cami,kami,lexicon,Archaic C/Qu/Gui normalization,True,True
+canila,kanila,lexicon,Archaic C/Qu/Gui normalization,True,True
+canilang,kanilang,lexicon,Archaic C/Qu/Gui normalization,True,True
+canino,kanino,lexicon,Archaic C/Qu/Gui normalization,True,True
+canya,kanya,lexicon,Archaic C/Qu/Gui normalization,True,True
+capag,kapag,lexicon,Archaic C/Qu/Gui normalization,True,True
+capangyarihan,kapangyarihan,lexicon,Archaic C/Qu/Gui normalization,True,True
+capatid,kapatid,lexicon,Archaic C/Qu/Gui normalization,True,True
+capitang,kapitang,lexicon,Archaic C/Qu/Gui normalization,True,True
+carunungan,karunungan,lexicon,Archaic C/Qu/Gui normalization,True,True
+casama,kasama,lexicon,Archaic C/Qu/Gui normalization,True,True
+castila,kastila,lexicon,Archaic C/Qu/Gui normalization,True,True
+catawan,katawan,lexicon,Archaic C/Qu/Gui normalization,True,True
+catotohanan,katotohanan,lexicon,Archaic C/Qu/Gui normalization,True,True
+catulad,katulad,lexicon,Archaic C/Qu/Gui normalization,True,True
+cay,kay,lexicon,Archaic C/Qu/Gui normalization,True,True
+caya,kaya,lexicon,Archaic C/Qu/Gui normalization,True,True
+cayo,kayo,lexicon,Archaic C/Qu/Gui normalization,True,True
+cayong,kayong,lexicon,Archaic C/Qu/Gui normalization,True,True
+co,ko,lexicon,Archaic C/Qu/Gui normalization,True,True
+cong,kong,lexicon,Archaic C/Qu/Gui normalization,True,True
+cung,kung,lexicon,Archaic C/Qu/Gui normalization,True,True
+cusa,kusa,lexicon,Archaic C/Qu/Gui normalization,True,True
+cusang,kusang,lexicon,Archaic C/Qu/Gui normalization,True,True
+dacong,dakong,lexicon,Archaic C/Qu/Gui normalization,True,True
+datapowa't,datapwat,special,punctuation_merge,False,True
+datapowa’t,datapwat,special,punctuation_merge,False,True
+datapuwa't,datapwat,special,punctuation_merge,False,True
+datapuwa’t,datapwat,special,punctuation_merge,False,True
+guinagawa,ginagawa,lexicon,Archaic C/Qu/Gui normalization,True,True
+guinawa,ginawa,lexicon,Archaic C/Qu/Gui normalization,True,True
+guinoo,ginoo,lexicon,Archaic C/Qu/Gui normalization,True,True
+guinoong,ginoong,lexicon,Archaic C/Qu/Gui normalization,True,True
+guitna,gitna,lexicon,Archaic C/Qu/Gui normalization,True,True
+icaw,ikaw,lexicon,Archaic C/Qu/Gui normalization,True,True
+naguing,naging,lexicon,Archaic C/Qu/Gui normalization,True,True
+nguni't,ngunit,special,punctuation_merge,False,True
+nguni’t,ngunit,special,punctuation_merge,False,True
+pagca,pagka,lexicon,Archaic C/Qu/Gui normalization,True,True
+pagcatapos,pagkatapos,lexicon,Archaic C/Qu/Gui normalization,True,True
+saca,saka,lexicon,Archaic C/Qu/Gui normalization,True,True
+sapagca't,sapagkat,special,punctuation_merge,False,True
+sapagca’t,sapagkat,special,punctuation_merge,False,True
+subali't,subalit,special,punctuation_merge,False,True
+subali’t,subalit,special,punctuation_merge,False,True
+tungcol,tungkol,lexicon,Archaic C/Qu/Gui normalization,True,True
+wicang,wikang,lexicon,Archaic C/Qu/Gui normalization,True,True
