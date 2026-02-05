@@ -4,62 +4,63 @@
 This project produces high-quality, normalized datasets of Dr. Jose Rizal's two major novels, **Noli Me Tangere** and **El Filibusterismo**, for Natural Language Processing (NLP) tasks. The primary goal is to convert the historical 19th-century Tagalog orthography into a form compatible with modern Filipino language models (specifically XLM-RoBERTa), while strictly preserving sentence segmentation and paragraph structure.
 
 ## Processing Pipeline Overview
-The raw text undergoes a strict, auditable 4-pipleline process:
+The text undergoes a strict, auditable 6-stage pipeline:
 
-1.  **Extraction**: Raw text is parsed from Project Gutenberg HTML source files into a structured CSV format. Front matter (license, title pages, table of contents) is programmatically removed to ensure only narrative text remains.
+1.  **Extraction**: Raw text is parsed from Project Gutenberg HTML source files into a structured CSV format. Front matter is removed.
 2.  **Phase A–C (Orthographic Normalization)**:
     *   **Unicode Standardization**: All text is converted to NFC (Normalization Form C).
     *   **Archaic Character Fixes**: Resolution of archaic tilde-g (`g̃` → `g`) and particle variants (`ñg` → `ng`).
-    *   **Diacritic Stripping**: Safe removal of combining diacritics (accents) while strictly preserving the distinct letter `ñ` / `Ñ`.
-3.  **Sentence Segmentation**: Paragraphs are split into sentences using a custom rule-based splitter that respects abbreviations (e.g., `G.`, `Dr.`) and dialogue punctuation. Chapter metadata is normalized (Chapters sequenced 1–N).
-4.  **Phase D (Lexical Modernization)**: A conservative, lexicon-driven modernization step. Common archaic spellings (e.g., `cung`, `guinoo`) are mapped to their modern equivalents (`kung`, `ginoo`) using a high-confidence mapping table. Proper nouns and ambiguous terms are preserved.
+    *   **Diacritic Stripping**: Removal of combining diacritics while preserving `ñ`.
+3.  **Phase T (Title Normalization)**:
+    *   Chapter titles are normalized to a consistent format (UPPERCASE), with Roman numerals removed and Spanish terms modernized (e.g., `EREHE` instead of `HEREJE`).
+    *   These titles are **frozen** and strictly preserved in subsequent phases.
+4.  **Sentence Segmentation**: Paragraphs are split into sentences using a custom rule-based splitter that respects abbreviations and dialogue punctuation.
+5.  **Phase D (Lexical Modernization)**:
+    *   **D.2/D.4 (Conservative)**: Initial safe modernization of common tokens (e.g., `cung`→`kung`, `buhoc`→`buhok`).
+    *   **D.5 (Deep Audit)**: Comprehensive scanning of all remaining archaic candidates.
+    *   **D.6 (Final Approval)**: **Final, strict modernization** based on an explicitly approved list (Category A). Spanish loanwords (Category B) and proper nouns (Category C) are strictly **preserved/rejected** to maintain historical register.
+6.  **Final Output**: The pipeline results in "FINAL v2" frozen datasets.
 
 ## File Inventory
 
-### El Filibusterismo
-| File | Phase | Description |
-| :--- | :--- | :--- |
-| `elfili_extraction.csv` | Extraction | Raw text extracted from HTML. |
-| `elfili_extraction_normalized.csv` | Phase A-C | Orthographically normalized text (NFC, no diacritics). |
-| `elfili_normalized_ortho.txt` | Phase A-C | Plain text file of narrative paragraphs (reference corpus). |
-| `elfili_chapter_sentences.csv` | Segmentation | Sentence-segmented dataset with Phase A-C orthography. |
-| `elfili_chapter_sentences_modernized.csv` | Phase D | **Final Modernized Sentence Dataset**. |
+### **Recommended Final Datasets (Thesis-Ready)**
+These are the frozen, normalized, and modernized files approved for final modeling.
+| File | Description |
+| :--- | :--- |
+| **`noli_chapter_sentences_FINAL_v2.csv`** | **Final Noli Me Tangere Dataset**. |
+| **`elfili_chapter_sentences_FINAL_v2.csv`** | **Final El Filibusterismo Dataset**. |
 
-### Noli Me Tangere
+### Intermediate Files (For Reference)
 | File | Phase | Description |
 | :--- | :--- | :--- |
-| `noli_extraction.csv` | Extraction | Raw text extracted from HTML. |
-| `noli_extraction_normalized.csv` | Phase A-C | Orthographically normalized text (NFC, no diacritics). |
-| `noli_normalized_ortho.txt` | Phase A-C | Plain text file of narrative paragraphs (reference corpus). |
-| `noli_chapter_sentences.csv` | Segmentation | Sentence-segmented dataset with Phase A-C orthography. |
-| `noli_chapter_sentences_modernized.csv` | Phase D | **Final Modernized Sentence Dataset**. |
+| `*_extraction.csv` | Extraction | Raw text extracted from HTML. |
+| `*_extraction_normalized.csv` | Phase A-C | NFC normalized text. |
+| `*_chapter_sentences.csv` | Segmentation | Segmented sentences with old orthography (`cung`, `saca`). |
+| `*_chapter_sentences_modernized.csv` | Phase D.4 | Intermediate modernized version. |
+| `*_chapter_sentences_FINAL.csv` | Phase D.4 | Version with frozen Phase T titles. |
 
 ### Configuration & Logs
 | File | Description |
 | :--- | :--- |
-| `phase_d_mapping_master.csv` | The master lexicon table defining all Phase D textual replacements. |
-| `phase_d_log_elfili.csv` | Full audit log of every word replacement in *El Filibusterismo*. |
-| `phase_d_log_noli.csv` | Full audit log of every word replacement in *Noli Me Tangere*. |
-| `phase_d_summary_*.md` | Statistical summaries of the modernization process. |
+| `phase_d6_proposal.md` | The final proposal document categorizing tokens as Safe (A), Review (B), or Preserve (C). |
+| `phase_d6_apply.py` | The script used for the final application of Phase D.6 rules. |
+| `phase_d6_log_*.csv` | **Audit Log**: Every change made in the final phase. |
+| `walkthrough.md` | Comprehensive chronological log of all technical decisions and phases. |
 
 ## Which files should I use?
 
-### For Modern NLP Modeling (Recommended)
-Use the **Phase D Modernized** files. These align best with the vocabulary of modern pre-trained models like XLM-RoBERTa.
-*   `noli_chapter_sentences_modernized.csv`
-*   `elfili_chapter_sentences_modernized.csv`
+### For Modern NLP Modeling
+Use the **`FINAL_v2.csv`** files. These align best with the vocabulary of modern pre-trained models like XLM-RoBERTa while respecting the historical context of the novels (preserving Spanish loans and names).
 
 ### For Historical Analysis
-Use the **Phase A–C Normalized** files. These retain archaic spellings (`cung`, `saca`) but remove noise (junk diacritics) for cleaner character-level analysis.
-*   `noli_chapter_sentences.csv`
-*   `elfili_chapter_sentences.csv`
+Use the **`*_chapter_sentences.csv`** (Segmentation phase) files. These retain archaic spellings (`cung`, `saca`) but remove noise (junk diacritics) for cleaner character-level analysis.
 
-## Reproducibility & alignment
-*   **Row-Level Alignment**: Transformation phases strictly preserve row counts. Row $N$ in the "Normalized" CSV corresponds exactly to Row $N$ in the "Modernized" CSV.
-*   **Unicode Compliance**: All final outputs are validated to be **NFC** compliant with **0 combining marks**.
-*   **Sentence Boundaries**: Sentence segmentation is identical across Normalized and Modernized versions.
+## Reproducibility & Alignment
+*   **Row-Level Alignment**: Transformation phases strictly preserve row counts. Row $N$ in the "raw" extraction corresponds exactly to Row $N$ in the "FINAL_v2" CSV.
+*   **Unicode Compliance**: All final outputs are validated to be **NFC** compliant.
+*   **Auditability**: Every change in Phase D is logged.
 
-## Notes & Constraints
-*   **Proper Nouns**: Names (e.g., *Ibarra*, *Maria Clara*) and places are strictly preserved.
-*   **No Rewriting**: No AI paraphrasing or grammar correction was applied. Changes are limited to strict 1:1 token substitution based on the mapping table.
-*   **Auditable**: Every single character change in Phase D is logged in the `phase_d_log_*.csv` files.
+## Constraints Preserved
+*   **Proper Nouns**: Names (e.g., *Ibarra*, *Maria Clara*) are strictly preserved.
+*   **Spanish Loans**: Terms like *cura*, *campana*, *coche* are preserved in their original spelling (Phase D.6 Decision).
+*   **Titles**: Chapter titles are locked to the Phase T specification.
