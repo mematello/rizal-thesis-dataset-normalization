@@ -1,0 +1,56 @@
+# Phase D.2 Summary: noli
+- Input Row Count: 8769
+- Output Row Count: 8769
+- Total Replacements: 967
+
+## Top Mappings Applied
+- boong: 295
+- pagcain: 30
+- pagcamatay: 17
+- pagcakita: 17
+- pumanhic: 15
+- pagcaibig: 10
+- pagcacasakit: 9
+- pagcabuhay: 9
+- pagcacagayo'y: 9
+- pagcaing: 9
+- pagcacataon: 9
+- pumapanhic: 7
+- nanhic: 7
+- pagcalakilaking: 7
+- pagcacagawa: 6
+- pagcagulat: 6
+- pagcacatuwa: 6
+- pagcacaanyo: 5
+- pagcapahamac: 5
+- pagcaraan: 5
+- pagcawala: 5
+- pagcagabi: 5
+- pagcacatulog: 5
+- pagcawalang: 5
+- pagcacahirap: 5
+- pagcacaawang: 5
+- ipinamanhic: 5
+- pagcalugod: 5
+- Pagcakita: 5
+- pagcatacot: 5
+- pagcacasal: 5
+- pagcasiyahan: 5
+- pagcaalaala: 4
+- pagcacaiba: 4
+- pagcasabi: 4
+- pagcacaroon: 4
+- pagcaalam: 4
+- pagcabantog: 4
+- pagcaringig: 4
+- pagcat: 3
+- pagcatalastas: 3
+- pagcacaalit: 3
+- pagcarinig: 3
+- Pagcacagayo'y: 3
+- pagcacaumaga: 3
+- pagcahabag: 3
+- pagcalaguim: 3
+- pagcalalaking: 3
+- pagcakilala: 3
+- pagcaamis: 3

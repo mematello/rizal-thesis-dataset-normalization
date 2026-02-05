@@ -1,0 +1,479 @@
+source_form,target_form,rule_type,notes,apply_case_sensitive,word_boundary_only
+Aco,Ako,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Anac,Anak,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Baca,Baka,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Baga ma't,Bagamat,special,punctuation_merge,True,True
+Baga ma’t,Bagamat,special,punctuation_merge,True,True
+Bagama't,Bagamat,special,punctuation_merge,True,True
+Bagama’t,Bagamat,special,punctuation_merge,True,True
+Ca,Ka,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cahapon,Kahapon,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cahi,Kahi,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cahoy,Kahoy,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Caibigan,Kaibigan,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cailan,Kailan,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cami,Kami,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Canila,Kanila,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Canilang,Kanilang,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Canya,Kanya,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Capatid,Kapatid,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Capitang,Kapitang,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Casama,Kasama,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Castila,Kastila,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Catulad,Katulad,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Caya,Kaya,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cayo,Kayo,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cayong,Kayong,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Cung,Kung,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Datapowa't,Datapwat,special,punctuation_merge,True,True
+Datapowa’t,Datapwat,special,punctuation_merge,True,True
+Datapuwa't,Datapwat,special,punctuation_merge,True,True
+Datapuwa’t,Datapwat,special,punctuation_merge,True,True
+Guinagawa,Ginagawa,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Guinawa,Ginawa,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Guinoo,Ginoo,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Guinoong,Ginoong,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Icaw,Ikaw,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Naguing,Naging,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Nguni't,Ngunit,special,punctuation_merge,True,True
+Nguni’t,Ngunit,special,punctuation_merge,True,True
+Pagca,Pagka,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Pagcatapos,Pagkatapos,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Saca,Saka,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Sapagca't,Sapagkat,special,punctuation_merge,True,True
+Sapagca’t,Sapagkat,special,punctuation_merge,True,True
+Subali't,Subalit,special,punctuation_merge,True,True
+Subali’t,Subalit,special,punctuation_merge,True,True
+Tungcol,Tungkol,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+Wicang,Wikang,lexicon,Archaic C/Qu/Gui normalization (Capitalized),True,True
+aco,ako,lexicon,Archaic C/Qu/Gui normalization,True,True
+acong,akong,lexicon,Archaic C/Qu/Gui normalization,True,True
+anac,anak,lexicon,Archaic C/Qu/Gui normalization,True,True
+baca,baka,lexicon,Archaic C/Qu/Gui normalization,True,True
+baga ma't,bagamat,special,punctuation_merge,False,True
+baga ma’t,bagamat,special,punctuation_merge,False,True
+bagama't,bagamat,special,punctuation_merge,False,True
+bagama’t,bagamat,special,punctuation_merge,False,True
+ca,ka,lexicon,Archaic C/Qu/Gui normalization,True,True
+caaway,kaaway,lexicon,Archaic C/Qu/Gui normalization,True,True
+cabataan,kabataan,lexicon,Archaic C/Qu/Gui normalization,True,True
+cabayo,kabayo,lexicon,Archaic C/Qu/Gui normalization,True,True
+cahapon,kahapon,lexicon,Archaic C/Qu/Gui normalization,True,True
+cahi,kahi,lexicon,Archaic C/Qu/Gui normalization,True,True
+cahoy,kahoy,lexicon,Archaic C/Qu/Gui normalization,True,True
+caibigan,kaibigan,lexicon,Archaic C/Qu/Gui normalization,True,True
+cailan,kailan,lexicon,Archaic C/Qu/Gui normalization,True,True
+calagayan,kalagayan,lexicon,Archaic C/Qu/Gui normalization,True,True
+caluluwa,kaluluwa,lexicon,Archaic C/Qu/Gui normalization,True,True
+camay,kamay,lexicon,Archaic C/Qu/Gui normalization,True,True
+cami,kami,lexicon,Archaic C/Qu/Gui normalization,True,True
+canila,kanila,lexicon,Archaic C/Qu/Gui normalization,True,True
+canilang,kanilang,lexicon,Archaic C/Qu/Gui normalization,True,True
+canino,kanino,lexicon,Archaic C/Qu/Gui normalization,True,True
+canya,kanya,lexicon,Archaic C/Qu/Gui normalization,True,True
+capag,kapag,lexicon,Archaic C/Qu/Gui normalization,True,True
+capangyarihan,kapangyarihan,lexicon,Archaic C/Qu/Gui normalization,True,True
+capatid,kapatid,lexicon,Archaic C/Qu/Gui normalization,True,True
+capitang,kapitang,lexicon,Archaic C/Qu/Gui normalization,True,True
+carunungan,karunungan,lexicon,Archaic C/Qu/Gui normalization,True,True
+casama,kasama,lexicon,Archaic C/Qu/Gui normalization,True,True
+castila,kastila,lexicon,Archaic C/Qu/Gui normalization,True,True
+catawan,katawan,lexicon,Archaic C/Qu/Gui normalization,True,True
+catotohanan,katotohanan,lexicon,Archaic C/Qu/Gui normalization,True,True
+catulad,katulad,lexicon,Archaic C/Qu/Gui normalization,True,True
+cay,kay,lexicon,Archaic C/Qu/Gui normalization,True,True
+caya,kaya,lexicon,Archaic C/Qu/Gui normalization,True,True
+cayo,kayo,lexicon,Archaic C/Qu/Gui normalization,True,True
+cayong,kayong,lexicon,Archaic C/Qu/Gui normalization,True,True
+co,ko,lexicon,Archaic C/Qu/Gui normalization,True,True
+cong,kong,lexicon,Archaic C/Qu/Gui normalization,True,True
+cung,kung,lexicon,Archaic C/Qu/Gui normalization,True,True
+cusa,kusa,lexicon,Archaic C/Qu/Gui normalization,True,True
+cusang,kusang,lexicon,Archaic C/Qu/Gui normalization,True,True
+dacong,dakong,lexicon,Archaic C/Qu/Gui normalization,True,True
+datapowa't,datapwat,special,punctuation_merge,False,True
+datapowa’t,datapwat,special,punctuation_merge,False,True
+datapuwa't,datapwat,special,punctuation_merge,False,True
+datapuwa’t,datapwat,special,punctuation_merge,False,True
+guinagawa,ginagawa,lexicon,Archaic C/Qu/Gui normalization,True,True
+guinawa,ginawa,lexicon,Archaic C/Qu/Gui normalization,True,True
+guinoo,ginoo,lexicon,Archaic C/Qu/Gui normalization,True,True
+guinoong,ginoong,lexicon,Archaic C/Qu/Gui normalization,True,True
+guitna,gitna,lexicon,Archaic C/Qu/Gui normalization,True,True
+icaw,ikaw,lexicon,Archaic C/Qu/Gui normalization,True,True
+naguing,naging,lexicon,Archaic C/Qu/Gui normalization,True,True
+nguni't,ngunit,special,punctuation_merge,False,True
+nguni’t,ngunit,special,punctuation_merge,False,True
+pagca,pagka,lexicon,Archaic C/Qu/Gui normalization,True,True
+pagcatapos,pagkatapos,lexicon,Archaic C/Qu/Gui normalization,True,True
+saca,saka,lexicon,Archaic C/Qu/Gui normalization,True,True
+sapagca't,sapagkat,special,punctuation_merge,False,True
+sapagca’t,sapagkat,special,punctuation_merge,False,True
+subali't,subalit,special,punctuation_merge,False,True
+subali’t,subalit,special,punctuation_merge,False,True
+tungcol,tungkol,lexicon,Archaic C/Qu/Gui normalization,True,True
+wicang,wikang,lexicon,Archaic C/Qu/Gui normalization,True,True
+boong,buong,lexicon,Archaic oo -> uo,True,True
+chic,chik,suffix,Archaic -hic -> -hik,True,True
+pagcalaganap,pagkalaganap,prefix,Archaic pagca- -> pagka-,True,True
+pagcapaliguan,pagkapaliguan,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaanyo,pagkakaanyo,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pumanhic,pumanhik,suffix,Archaic -hic -> -hik,True,True
+pagcamatay,pagkamatay,prefix,Archaic pagca- -> pagka-,True,True
+pagcacasakit,pagkakasakit,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacapinta'y,pagkakapinta'y,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacasipi,pagkakasipi,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacagana,pagkakagana,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcain,pagkain,prefix,Archaic pagca- -> pagka-,True,True
+pagcahating,pagkahating,prefix,Archaic pagca- -> pagka-,True,True
+pagcabuhay,pagkabuhay,prefix,Archaic pagca- -> pagka-,True,True
+pagcadupilas,pagkadupilas,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaalis,pagkakaalis,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcatiguil,pagkatiguil,prefix,Archaic pagca- -> pagka-,True,True
+pagcahuli,pagkahuli,prefix,Archaic pagca- -> pagka-,True,True
+pagcamangha,pagkamangha,prefix,Archaic pagca- -> pagka-,True,True
+pagcasacerdote,pagkasacerdote,prefix,Archaic pagca- -> pagka-,True,True
+pagcacainitan,pagkakainitan,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacapagod,pagkakapagod,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcatigagal,pagkatigagal,prefix,Archaic pagca- -> pagka-,True,True
+pagcapatira,pagkapatira,prefix,Archaic pagca- -> pagka-,True,True
+nagpapamanhic,nagpapamanhik,suffix,Archaic -hic -> -hik,True,True
+pagcat,pagkat,prefix,Archaic pagca- -> pagka-,True,True
+pagcalibang,pagkalibang,prefix,Archaic pagca- -> pagka-,True,True
+pagcatanda,pagkatanda,prefix,Archaic pagca- -> pagka-,True,True
+pagcacakilalanan,pagkakakilalanan,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacabangguit,pagkakabangguit,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacayapac,pagkakayapac,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacahuwad,pagkakahuwad,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaturong,pagkaturong,prefix,Archaic pagca- -> pagka-,True,True
+pagcalagay,pagkalagay,prefix,Archaic pagca- -> pagka-,True,True
+pagcahiwatig,pagkahiwatig,prefix,Archaic pagca- -> pagka-,True,True
+pagcatalastas,pagkatalastas,prefix,Archaic pagca- -> pagka-,True,True
+pagcabanal,pagkabanal,prefix,Archaic pagca- -> pagka-,True,True
+pagcapahamac,pagkapahamac,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaalit,pagkakaalit,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaraan,pagkaraan,prefix,Archaic pagca- -> pagka-,True,True
+pagcacalaban,pagkakalaban,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcalagot,pagkalagot,prefix,Archaic pagca- -> pagka-,True,True
+pagcagandagandang,pagkagandagandang,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatowa,pagkakatowa,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacatimbang,pagkakatimbang,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapangahas,pagkapangahas,prefix,Archaic pagca- -> pagka-,True,True
+pagcaguipit,pagkaguipit,prefix,Archaic pagca- -> pagka-,True,True
+pagcapangitpangit,pagkapangitpangit,prefix,Archaic pagca- -> pagka-,True,True
+pagcacagawang,pagkakagawang,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapaco,pagkapaco,prefix,Archaic pagca- -> pagka-,True,True
+pagcaawa,pagkaawa,prefix,Archaic pagca- -> pagka-,True,True
+pagcatalo'y,pagkatalo'y,prefix,Archaic pagca- -> pagka-,True,True
+pagcapalihis,pagkapalihis,prefix,Archaic pagca- -> pagka-,True,True
+pagcamatimtimang,pagkamatimtimang,prefix,Archaic pagca- -> pagka-,True,True
+pagcacahulog,pagkakahulog,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapit,pagkapit,prefix,Archaic pagca- -> pagka-,True,True
+pagcaguinoo,pagkaguinoo,prefix,Archaic pagca- -> pagka-,True,True
+pagcapanganac,pagkapanganac,prefix,Archaic pagca- -> pagka-,True,True
+pagcamaramdamin,pagkamaramdamin,prefix,Archaic pagca- -> pagka-,True,True
+pagcainip,pagkainip,prefix,Archaic pagca- -> pagka-,True,True
+pagcarinig,pagkarinig,prefix,Archaic pagca- -> pagka-,True,True
+pagcaalaala,pagkaalaala,prefix,Archaic pagca- -> pagka-,True,True
+pagcahibang,pagkahibang,prefix,Archaic pagca- -> pagka-,True,True
+Pagcaramiraming,Pagkaramiraming,prefix,Archaic pagca- -> pagka-,True,True
+pagcaramiraming,pagkaramiraming,prefix,Archaic pagca- -> pagka-,True,True
+pagcacapisan,pagkakapisan,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcamagdaraya,pagkamagdaraya,prefix,Archaic pagca- -> pagka-,True,True
+pagcacasundo,pagkakasundo,prefix,Archaic pagcaca- -> pagkaka-,True,True
+ipinamamanhic,ipinamamanhik,suffix,Archaic -hic -> -hik,True,True
+pagcaligalig,pagkaligalig,prefix,Archaic pagca- -> pagka-,True,True
+Pagcacagayo'y,Pagkakagayo'y,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacacabit,pagkakacabit,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacuyagutin,pagkacuyagutin,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaupo,pagkakaupo,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacaumaga,pagkakaumaga,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pumapanhic,pumapanhik,suffix,Archaic -hic -> -hik,True,True
+nanhic,nanhik,suffix,Archaic -hic -> -hik,True,True
+pagcapasoc,pagkapasoc,prefix,Archaic pagca- -> pagka-,True,True
+pagcapagmisa,pagkapagmisa,prefix,Archaic pagca- -> pagka-,True,True
+pagcawala,pagkawala,prefix,Archaic pagca- -> pagka-,True,True
+pagcahabag,pagkahabag,prefix,Archaic pagca- -> pagka-,True,True
+pagcahilig,pagkahilig,prefix,Archaic pagca- -> pagka-,True,True
+pagcacagayo'y,pagkakagayo'y,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcakita,pagkakita,prefix,Archaic pagca- -> pagka-,True,True
+pagcalaguim,pagkalaguim,prefix,Archaic pagca- -> pagka-,True,True
+pagcalalaking,pagkalalaking,prefix,Archaic pagca- -> pagka-,True,True
+pagcayacap,pagkayacap,prefix,Archaic pagca- -> pagka-,True,True
+pagcagabi,pagkagabi,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatulog,pagkakatulog,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcawangis,pagkawangis,prefix,Archaic pagca- -> pagka-,True,True
+pagcamasuwaying,pagkamasuwaying,prefix,Archaic pagca- -> pagka-,True,True
+pagcawalang,pagkawalang,prefix,Archaic pagca- -> pagka-,True,True
+pagcatugtog,pagkatugtog,prefix,Archaic pagca- -> pagka-,True,True
+pagcasumpong,pagkasumpong,prefix,Archaic pagca- -> pagka-,True,True
+pagcaing,pagkaing,prefix,Archaic pagca- -> pagka-,True,True
+pagcakilala,pagkakilala,prefix,Archaic pagca- -> pagka-,True,True
+pagcasagot,pagkasagot,prefix,Archaic pagca- -> pagka-,True,True
+pagcacalibing,pagkakalibing,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapugay,pagkapugay,prefix,Archaic pagca- -> pagka-,True,True
+pagcaguitla,pagkaguitla,prefix,Archaic pagca- -> pagka-,True,True
+pagcahucay,pagkahucay,prefix,Archaic pagca- -> pagka-,True,True
+Pagcapanhic,Pagkapanhic,prefix,Archaic pagca- -> pagka-,True,True
+pagcacahirap,pagkakahirap,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacatatag,pagkakatatag,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcamapamahiin,pagkamapamahiin,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaiba,pagkakaiba,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacahaca,pagkakahaca,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcadala,pagkadala,prefix,Archaic pagca- -> pagka-,True,True
+pagcatira,pagkatira,prefix,Archaic pagca- -> pagka-,True,True
+pagcapasa,pagkapasa,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaawang,pagkakaawang,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacasala,pagkakasala,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaanyong,pagkaanyong,prefix,Archaic pagca- -> pagka-,True,True
+pagcabugbog,pagkabugbog,prefix,Archaic pagca- -> pagka-,True,True
+pagcacahampashampas,pagkakahampashampas,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcasara,pagkasara,prefix,Archaic pagca- -> pagka-,True,True
+pagcacagawa,pagkakagawa,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapatupatuloy,pagkapatupatuloy,prefix,Archaic pagca- -> pagka-,True,True
+pagcaibig,pagkaibig,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatao'y,pagkakatao'y,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcasabi,pagkasabi,prefix,Archaic pagca- -> pagka-,True,True
+pagcapanglawpanglaw,pagkapanglawpanglaw,prefix,Archaic pagca- -> pagka-,True,True
+pagcatulig,pagkatulig,prefix,Archaic pagca- -> pagka-,True,True
+pagcatiwalaan,pagkatiwalaan,prefix,Archaic pagca- -> pagka-,True,True
+pagcahimbing,pagkahimbing,prefix,Archaic pagca- -> pagka-,True,True
+pagcacamit,pagkakamit,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcasalita,pagkasalita,prefix,Archaic pagca- -> pagka-,True,True
+pagcagayo'y,pagkagayo'y,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatanggap,pagkakatanggap,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapagnacaw,pagkapagnacaw,prefix,Archaic pagca- -> pagka-,True,True
+pagcacagayon,pagkakagayon,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaalimura,pagkaalimura,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaroon,pagkakaroon,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcagaspang,pagkagaspang,prefix,Archaic pagca- -> pagka-,True,True
+pagcatingin,pagkatingin,prefix,Archaic pagca- -> pagka-,True,True
+pagcatuto,pagkatuto,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatiwala,pagkakatiwala,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaamis,pagkaamis,prefix,Archaic pagca- -> pagka-,True,True
+pagcaimbi,pagkaimbi,prefix,Archaic pagca- -> pagka-,True,True
+pagcasayang,pagkasayang,prefix,Archaic pagca- -> pagka-,True,True
+pagcahiyang,pagkahiyang,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaiba't,pagkakaiba't,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacahanay,pagkakahanay,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapoot,pagkapoot,prefix,Archaic pagca- -> pagka-,True,True
+ipinamanhic,ipinamanhik,suffix,Archaic -hic -> -hik,True,True
+pagcacaloob,pagkakaloob,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcalugod,pagkalugod,prefix,Archaic pagca- -> pagka-,True,True
+pagcacasalita,pagkakasalita,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacagugol,pagkakagugol,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcabangguit,pagkabangguit,prefix,Archaic pagca- -> pagka-,True,True
+pagcamasintahin,pagkamasintahin,prefix,Archaic pagca- -> pagka-,True,True
+pagcatalos,pagkatalos,prefix,Archaic pagca- -> pagka-,True,True
+pagcapanghiganti,pagkapanghiganti,prefix,Archaic pagca- -> pagka-,True,True
+pagcatalo,pagkatalo,prefix,Archaic pagca- -> pagka-,True,True
+pagcacagalit,pagkakagalit,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacabayad,pagkakabayad,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacapacain,pagkakapacain,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacapaguran,pagkakapaguran,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaapi,pagkaapi,prefix,Archaic pagca- -> pagka-,True,True
+panghihimanhic,panghihimanhik,suffix,Archaic -hic -> -hik,True,True
+Pagcababait,Pagkababait,prefix,Archaic pagca- -> pagka-,True,True
+pagcagaganda,pagkagaganda,prefix,Archaic pagca- -> pagka-,True,True
+pagcagulat,pagkagulat,prefix,Archaic pagca- -> pagka-,True,True
+pagcasama,pagkasama,prefix,Archaic pagca- -> pagka-,True,True
+pagcapanalita,pagkapanalita,prefix,Archaic pagca- -> pagka-,True,True
+pagcasalubong,pagkasalubong,prefix,Archaic pagca- -> pagka-,True,True
+pagcatanhaling,pagkatanhaling,prefix,Archaic pagca- -> pagka-,True,True
+pagcalimot,pagkalimot,prefix,Archaic pagca- -> pagka-,True,True
+pagcaculang,pagkaculang,prefix,Archaic pagca- -> pagka-,True,True
+pagcacalangcap,pagkakalangcap,prefix,Archaic pagcaca- -> pagkaka-,True,True
+Pagcakita,Pagkakita,prefix,Archaic pagca- -> pagka-,True,True
+pagcacagayac,pagkakagayac,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pamanhic,pamanhik,suffix,Archaic -hic -> -hik,True,True
+pagcacataon,pagkakataon,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapiloto,pagkapiloto,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatuwa,pagkakatuwa,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcalakilaking,pagkalakilaking,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaalayo,pagkakaalayo,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcahiwalay,pagkahiwalay,prefix,Archaic pagca- -> pagka-,True,True
+napapamanhic,napapamanhik,suffix,Archaic -hic -> -hik,True,True
+pagcacaanyo'y,pagkakaanyo'y,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcahulog,pagkahulog,prefix,Archaic pagca- -> pagka-,True,True
+pagcabigo,pagkabigo,prefix,Archaic pagca- -> pagka-,True,True
+pagcapandaw,pagkapandaw,prefix,Archaic pagca- -> pagka-,True,True
+pagcatacot,pagkatacot,prefix,Archaic pagca- -> pagka-,True,True
+pagcacawala'y,pagkakawala'y,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcabasa,pagkabasa,prefix,Archaic pagca- -> pagka-,True,True
+pagcacalagay,pagkakalagay,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacolegiala,pagkacolegiala,prefix,Archaic pagca- -> pagka-,True,True
+pagcacabacod,pagkakabacod,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapayapa,pagkapayapa,prefix,Archaic pagca- -> pagka-,True,True
+pagcapagcaloob,pagkapagcaloob,prefix,Archaic pagca- -> pagka-,True,True
+pagcapagbigay,pagkapagbigay,prefix,Archaic pagca- -> pagka-,True,True
+pagcacamaling,pagkakamaling,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcawica,pagkawica,prefix,Archaic pagca- -> pagka-,True,True
+pinanhic,pinanhik,suffix,Archaic -hic -> -hik,True,True
+pagcacaguhit,pagkakaguhit,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaligtas,pagkaligtas,prefix,Archaic pagca- -> pagka-,True,True
+pagcatumba,pagkatumba,prefix,Archaic pagca- -> pagka-,True,True
+pagcakitang,pagkakitang,prefix,Archaic pagca- -> pagka-,True,True
+pagcapanucala,pagkapanucala,prefix,Archaic pagca- -> pagka-,True,True
+pagcaunlac,pagkaunlac,prefix,Archaic pagca- -> pagka-,True,True
+pagcaunawa,pagkaunawa,prefix,Archaic pagca- -> pagka-,True,True
+pagcacautangan,pagkakautangan,prefix,Archaic pagcaca- -> pagkaka-,True,True
+Pagcahumihihip,Pagkahumihihip,prefix,Archaic pagca- -> pagka-,True,True
+pagcatuwid,pagkatuwid,prefix,Archaic pagca- -> pagka-,True,True
+Pagcaraan,Pagkaraan,prefix,Archaic pagca- -> pagka-,True,True
+pagcaalam,pagkaalam,prefix,Archaic pagca- -> pagka-,True,True
+pagcalampas,pagkalampas,prefix,Archaic pagca- -> pagka-,True,True
+pagcamahiliguin,pagkamahiliguin,prefix,Archaic pagca- -> pagka-,True,True
+pagcabasag,pagkabasag,prefix,Archaic pagca- -> pagka-,True,True
+pagcacahanda,pagkakahanda,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacahiwa,pagkakahiwa,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacatapyas,pagkakatapyas,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacayari,pagkakayari,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacadalawang,pagkakadalawang,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcabantog,pagkabantog,prefix,Archaic pagca- -> pagka-,True,True
+pagcacasulat,pagkakasulat,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacasunduang,pagkakasunduang,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcagugulan,pagkagugulan,prefix,Archaic pagca- -> pagka-,True,True
+pagcalalaki,pagkalalaki,prefix,Archaic pagca- -> pagka-,True,True
+pagcaalis,pagkaalis,prefix,Archaic pagca- -> pagka-,True,True
+pagcahanga,pagkahanga,prefix,Archaic pagca- -> pagka-,True,True
+pagcalayo,pagkalayo,prefix,Archaic pagca- -> pagka-,True,True
+pagcapiit,pagkapiit,prefix,Archaic pagca- -> pagka-,True,True
+Pagcaramirami,Pagkaramirami,prefix,Archaic pagca- -> pagka-,True,True
+pagcalooban,pagkalooban,prefix,Archaic pagca- -> pagka-,True,True
+pagcacalabas,pagkakalabas,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcantang,pagkantang,prefix,Archaic pagca- -> pagka-,True,True
+pagcacasamaan,pagkakasamaan,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacataglay,pagkakataglay,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcapatapiloc,pagkapatapiloc,prefix,Archaic pagca- -> pagka-,True,True
+pagcalibaguing,pagkalibaguing,prefix,Archaic pagca- -> pagka-,True,True
+pagcatuyo,pagkatuyo,prefix,Archaic pagca- -> pagka-,True,True
+pagcatunaw,pagkatunaw,prefix,Archaic pagca- -> pagka-,True,True
+pagcaguising,pagkaguising,prefix,Archaic pagca- -> pagka-,True,True
+pagpanhic,pagpanhik,suffix,Archaic -hic -> -hik,True,True
+pagcauhaw,pagkauhaw,prefix,Archaic pagca- -> pagka-,True,True
+pagcahiya,pagkahiya,prefix,Archaic pagca- -> pagka-,True,True
+pagcabihag,pagkabihag,prefix,Archaic pagca- -> pagka-,True,True
+pagcatuclas,pagkatuclas,prefix,Archaic pagca- -> pagka-,True,True
+pagcapatanga,pagkapatanga,prefix,Archaic pagca- -> pagka-,True,True
+pagcasaulo,pagkasaulo,prefix,Archaic pagca- -> pagka-,True,True
+pagcabilanggo,pagkabilanggo,prefix,Archaic pagca- -> pagka-,True,True
+pagcacasunodsunod,pagkakasunodsunod,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacacawang,pagkakacawang,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaantoc,pagkaantoc,prefix,Archaic pagca- -> pagka-,True,True
+pagcahabahabang,pagkahabahabang,prefix,Archaic pagca- -> pagka-,True,True
+pagcaaalang,pagkaaalang,prefix,Archaic pagca- -> pagka-,True,True
+pagcatao,pagkatao,prefix,Archaic pagca- -> pagka-,True,True
+pagcamahal,pagkamahal,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaserdote,pagkakaserdote,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcamasid,pagkamasid,prefix,Archaic pagca- -> pagka-,True,True
+pagcahindi,pagkahindi,prefix,Archaic pagca- -> pagka-,True,True
+pagcacasira,pagkakasira,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacayas,pagkakayas,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaisip,pagkaisip,prefix,Archaic pagca- -> pagka-,True,True
+pagcahawac,pagkahawac,prefix,Archaic pagca- -> pagka-,True,True
+pagcapacagaling,pagkapacagaling,prefix,Archaic pagca- -> pagka-,True,True
+pagcagagaling,pagkagagaling,prefix,Archaic pagca- -> pagka-,True,True
+pagcapacasama,pagkapacasama,prefix,Archaic pagca- -> pagka-,True,True
+pagcamusmus,pagkamusmus,prefix,Archaic pagca- -> pagka-,True,True
+pagcacalarawa'y,pagkakalarawa'y,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcalungayngay,pagkalungayngay,prefix,Archaic pagca- -> pagka-,True,True
+pagcatiin,pagkatiin,prefix,Archaic pagca- -> pagka-,True,True
+pagcabinyagan,pagkabinyagan,prefix,Archaic pagca- -> pagka-,True,True
+pagcasasalabat,pagkasasalabat,prefix,Archaic pagca- -> pagka-,True,True
+pagcacataong,pagkakataong,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacaprinsa,pagkakaprinsa,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacapalad,pagkakapalad,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacasal,pagkakasal,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcalapit,pagkalapit,prefix,Archaic pagca- -> pagka-,True,True
+pagcagalinggaling,pagkagalinggaling,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaramdam,pagkakaramdam,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcayamot,pagkayamot,prefix,Archaic pagca- -> pagka-,True,True
+pagcacahidwa,pagkakahidwa,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacamali,pagkakamali,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcabagong,pagkabagong,prefix,Archaic pagca- -> pagka-,True,True
+pagcaubos,pagkaubos,prefix,Archaic pagca- -> pagka-,True,True
+Pagcalalaking,Pagkalalaking,prefix,Archaic pagca- -> pagka-,True,True
+pagcatanto,pagkatanto,prefix,Archaic pagca- -> pagka-,True,True
+pagcatututo,pagkatututo,prefix,Archaic pagca- -> pagka-,True,True
+pagcacanta,pagkakanta,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcalabas,pagkalabas,prefix,Archaic pagca- -> pagka-,True,True
+pagcacapaliwanag,pagkakapaliwanag,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacapulupulutong,pagkakapulupulutong,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacapantay,pagkakapantay,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcanta,pagkanta,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaingay,pagkakaingay,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacagulo,pagkakagulo,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcatindig,pagkatindig,prefix,Archaic pagca- -> pagka-,True,True
+pagcabili,pagkabili,prefix,Archaic pagca- -> pagka-,True,True
+pagcacamag,pagkakamag,prefix,Archaic pagcaca- -> pagkaka-,True,True
+ipinapanhic,ipinapanhik,suffix,Archaic -hic -> -hik,True,True
+pagcawili,pagkawili,prefix,Archaic pagca- -> pagka-,True,True
+pagcapanot,pagkapanot,prefix,Archaic pagca- -> pagka-,True,True
+pagcamatimyas,pagkamatimyas,prefix,Archaic pagca- -> pagka-,True,True
+pagcabagay,pagkabagay,prefix,Archaic pagca- -> pagka-,True,True
+Pagcalakilaki,Pagkalakilaki,prefix,Archaic pagca- -> pagka-,True,True
+pagcainis,pagkainis,prefix,Archaic pagca- -> pagka-,True,True
+pagcatuwa,pagkatuwa,prefix,Archaic pagca- -> pagka-,True,True
+pagcapangumpisal,pagkapangumpisal,prefix,Archaic pagca- -> pagka-,True,True
+Pagcagalinggaling,Pagkagalinggaling,prefix,Archaic pagca- -> pagka-,True,True
+pagcahumal,pagkahumal,prefix,Archaic pagca- -> pagka-,True,True
+pagcanilaynilay,pagkanilaynilay,prefix,Archaic pagca- -> pagka-,True,True
+pagcadali,pagkadali,prefix,Archaic pagca- -> pagka-,True,True
+pagcagagandang,pagkagagandang,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaturo,pagkakaturo,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaturo,pagkaturo,prefix,Archaic pagca- -> pagka-,True,True
+pagcacapicpic,pagkakapicpic,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcalakilaki,pagkalakilaki,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatulad,pagkakatulad,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacasugat,pagkakasugat,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcatwa,pagkatwa,prefix,Archaic pagca- -> pagka-,True,True
+Pagcapangitpangit,Pagkapangitpangit,prefix,Archaic pagca- -> pagka-,True,True
+pagcasamasama,pagkasamasama,prefix,Archaic pagca- -> pagka-,True,True
+pagcagamot,pagkagamot,prefix,Archaic pagca- -> pagka-,True,True
+pagcapasabi,pagkapasabi,prefix,Archaic pagca- -> pagka-,True,True
+pagcasiyahan,pagkasiyahan,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatangkilic,pagkakatangkilic,prefix,Archaic pagcaca- -> pagkaka-,True,True
+mamanhic,mamanhik,suffix,Archaic -hic -> -hik,True,True
+pagcaupo,pagkaupo,prefix,Archaic pagca- -> pagka-,True,True
+namanhic,namanhik,suffix,Archaic -hic -> -hik,True,True
+pagcamapagmataas,pagkamapagmataas,prefix,Archaic pagca- -> pagka-,True,True
+pagcapalagay,pagkapalagay,prefix,Archaic pagca- -> pagka-,True,True
+pagcaringig,pagkaringig,prefix,Archaic pagca- -> pagka-,True,True
+pagcapatay,pagkapatay,prefix,Archaic pagca- -> pagka-,True,True
+pagcacamal,pagkakamal,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcatanggap,pagkatanggap,prefix,Archaic pagca- -> pagka-,True,True
+pagcapagal,pagkapagal,prefix,Archaic pagca- -> pagka-,True,True
+pagcaguho,pagkaguho,prefix,Archaic pagca- -> pagka-,True,True
+pagcacahandang,pagkakahandang,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcabalisa,pagkabalisa,prefix,Archaic pagca- -> pagka-,True,True
+pagcasabit,pagkasabit,prefix,Archaic pagca- -> pagka-,True,True
+pagcaguiyaguis,pagkaguiyaguis,prefix,Archaic pagca- -> pagka-,True,True
+pagcalucso,pagkalucso,prefix,Archaic pagca- -> pagka-,True,True
+pagcacapiit,pagkakapiit,prefix,Archaic pagcaca- -> pagkaka-,True,True
+macapapanhic,macapapanhik,suffix,Archaic -hic -> -hik,True,True
+pagcagulantang,pagkagulantang,prefix,Archaic pagca- -> pagka-,True,True
+pagcamalabis,pagkamalabis,prefix,Archaic pagca- -> pagka-,True,True
+pagcalairit,pagkalairit,prefix,Archaic pagca- -> pagka-,True,True
+ipanhic,ipanhik,suffix,Archaic -hic -> -hik,True,True
+pagcabitin,pagkabitin,prefix,Archaic pagca- -> pagka-,True,True
+pagcasingcaw,pagkasingcaw,prefix,Archaic pagca- -> pagka-,True,True
+pagcatalinhaga,pagkatalinhaga,prefix,Archaic pagca- -> pagka-,True,True
+pagcacabalita'y,pagkakabalita'y,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcacapisang,pagkakapisang,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaimbiimbing,pagkaimbiimbing,prefix,Archaic pagca- -> pagka-,True,True
+pagcacaingat,pagkakaingat,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaculong,pagkaculong,prefix,Archaic pagca- -> pagka-,True,True
+magmamanhic,magmamanhik,suffix,Archaic -hic -> -hik,True,True
+pagcataas,pagkataas,prefix,Archaic pagca- -> pagka-,True,True
+pagcacabigay,pagkakabigay,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcatacas,pagkatacas,prefix,Archaic pagca- -> pagka-,True,True
+pagcacatanan,pagkakatanan,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcahiga,pagkahiga,prefix,Archaic pagca- -> pagka-,True,True
+pagcabitay,pagkabitay,prefix,Archaic pagca- -> pagka-,True,True
+pagcapatapon,pagkapatapon,prefix,Archaic pagca- -> pagka-,True,True
+pagcacalinga,pagkakalinga,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcasayangsayang,pagkasayangsayang,prefix,Archaic pagca- -> pagka-,True,True
+pagcapikit,pagkapikit,prefix,Archaic pagca- -> pagka-,True,True
+pagcapabaya,pagkapabaya,prefix,Archaic pagca- -> pagka-,True,True
+pagcacalam,pagkakalam,prefix,Archaic pagcaca- -> pagkaka-,True,True
+pagcaguiba,pagkaguiba,prefix,Archaic pagca- -> pagka-,True,True
