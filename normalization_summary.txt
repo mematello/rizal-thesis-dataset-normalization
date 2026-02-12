@@ -1,0 +1,6 @@
+NORMALIZATION SUMMARY
+=====================
+Total Sentences Processed: 8769
+Total Changes Applied: 10039
+Sentences Modified: 4511
+Unique Tokens Normalized: 3425

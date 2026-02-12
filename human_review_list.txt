@@ -1,0 +1,253 @@
+HUMAN REVIEW LIST (Top 50)
+==========================
+
+TOKEN: nagcacagayo'y  ->  SUGGESTION: nagkakagayo'y
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["1054: Hindi dahil dito'y nagbabagong ugali ang alferez, na gaya rin ng lahat ng hindi marurunong magbalik-loob: lumalabas sa simbahang nagtutungayaw, at pagkasumpong sa isang sacristan o alila ng cura'y pinipiit, binubugbog at pinapagpupunas ng sahig ng cuartel at ng bahay niyang sarili, na pagka nagcacagayo'y lumilinis.", "2356: Kung nagcacagayo'y anaki'y dumidilim na lahat sa ating paliguid, at sacali't macakita tayo ng isang maliit na ilaw sa malayo, tinatacbo natin ang ilaw na iyon, pinag-uusig natin, at hindi natin alumana kahi't makitang sa calaguitnaan ng landas ay may isang malalim na bangin.", "2700: Hindi miminsang nasubucan ang taong ito ni Maria Clarang siya'y pinagmamasdan: kung nagcacagayo'y dalidaling tumitingin siya sa ibang daco at tumatanaw sa malayo, sa bundok, sa pampang."]
+----------------------------------------
+TOKEN: catapusang  ->  SUGGESTION: katapusang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['543: Nangamatay ang mga ilaw ng catapat na bahay, huminto ang musica at ang caingayan, ngunit naririnig pa ni Ibarra ang cahapishapis na sigaw ng kanyang ama, na hinahanap ang kanyang anak sa kanyang catapusang horas.', '1753: Magcacaroon na ng icapitong horas ng umaga ng matapos ni Fr. Salvi ang kanyang catapusang misa: ginawa niya ang tatlong misa sa loob ng isang oras.', '3484: Hiningi ng curang siya ang mag-aamang-binyag at magbebendicion sa paglalagay ng unang bato, pagdiriwang na gagawin sa catapusang araw ng fiesta, at siyang gagawing isa sa mga pinacamalaking pagsasaya.']
+----------------------------------------
+TOKEN: macailang  ->  SUGGESTION: makailang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["1729: Maniwala, po kayo, nanay, mabait ang matanda; macailang nakita ko siya sa simbahan, pagka sino ma'y wala roon; naluluhod at nananalangin, maniwala po kayo.", "5915: Samantala'y macailang dinala ng dalaga ang panyo sa kanyang mga mata, at lalo ng napapakingan ang lakas ng kanyang paghinga.", "6192: Diya'y sinasandatahan ang manok, humihirang ng tari, inihahanda ng mananari ang sutlang mapula, na pinagkitan at macailang hinagod."]
+----------------------------------------
+TOKEN: caratig  ->  SUGGESTION: karatig
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['980: Pinananaligan na ng taong siya\'y "encantado", ng maino ng mga pastol ang isang caangutang nagbubuhat sa caratig na gubat; kanilang binacas, at ang nasumpungan nila\'y ang matandang lalaking buloc na at nacabitin sa sanga ng isang "baliti".', "989: Batangbata pa si Don Rafael ay nagpilit nang siya'y calugdan ng mga taong bukid: hindi nalao't pagdaca'y lumago ang pagsasacang dinala at pinalaganap ng kanyang ama, nanahan doon ang maraming tao, nangagsiparoon ang maraming insic; ang pulo ng mga dampa'y naging isang nayon, at nagcaroon ng isang curang tagalog; pagkatapos ay naging isang bayan, namatay ang cura at naparoon si Fr. Damaso; ngunit ang libinga't caratig na lupa'y pawang pinagpitaganan.", "2169: Mangyayaring macagawa nga tayo, sa pamamag-itan ng salaping ito ng isang fiestang macahihiguit ng di ano lamang sa caningningan sa lahat ng hangga ngayo'y napanood dito sa ating lalawigan at sa mga lalawigang caratig man."]
+----------------------------------------
+TOKEN: tanicala  ->  SUGGESTION: tanikala
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['539: Nacuculong ang isang munting luang ng apat na hubad at maruruming pader; sa isa sa mga pader, sa dakong itaas ay may isang "reja"; sa ibabaw ng marami at casuclamsuclam na yapacan ay may isang banig, at sa ibabaw ng banig ay isang matandang lalaking naghihingalo; ang matandang lalaking nahihirapan ng paghinga ay inililingap sa magcabicabila ang mga mata at umiiyac na ipinangungusap ang isang pangalan; nag-iisa ang matandang lalaki; manacanacang nariringig ang calansing ng isang tanicala o isang buntong-hiningang naglalampasan sa mga pader ... at pagkatapos, doon sa malayo\'y may isang masayang piguing, halos ay isang mahalay na pagkakatowa; isang binata\'y nagtatawa, ibinubuhos ang alac sa mga bulaklak, sa gitna ng mga pagpupuri at sa mga tanging tawanan ng mga iba.', "802: Wari'y nariringig pa niya ang kanilang caingayang ginagawa sa pagdudurog ng batong itatabon sa mga lubac at ang nacalalaguim na calansing ng mabibigat na mga tanicala sa namamaga na nilang mga bucong-bucong.", '3376: Ang mga panghiningang ito\'y may mga anyong "abanico," kung minsa\'y katulad ng mga pinagsalitsalit na mga bulaklak, o isang ibon, isang "rosa", isang dahon ng anahaw, o mga tanicala, na pinapagmula ang lahat ng ito sa isang caputol na kahoy lamang: isang bilanggong pinarurusahan sa sapilitang pagtatrabajo ang may gawa, isang pangal na "cuchillo" ang gamit na casangcapan at ang voces ng bastonero ang siyang nagtuturo.']
+----------------------------------------
+TOKEN: yapacan  ->  SUGGESTION: yapakan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['539: Nacuculong ang isang munting luang ng apat na hubad at maruruming pader; sa isa sa mga pader, sa dakong itaas ay may isang "reja"; sa ibabaw ng marami at casuclamsuclam na yapacan ay may isang banig, at sa ibabaw ng banig ay isang matandang lalaking naghihingalo; ang matandang lalaking nahihirapan ng paghinga ay inililingap sa magcabicabila ang mga mata at umiiyac na ipinangungusap ang isang pangalan; nag-iisa ang matandang lalaki; manacanacang nariringig ang calansing ng isang tanicala o isang buntong-hiningang naglalampasan sa mga pader ... at pagkatapos, doon sa malayo\'y may isang masayang piguing, halos ay isang mahalay na pagkakatowa; isang binata\'y nagtatawa, ibinubuhos ang alac sa mga bulaklak, sa gitna ng mga pagpupuri at sa mga tanging tawanan ng mga iba.', '1695: Nakikita ni Basiliong namimilipit si Crispin, inihahampas ang ulo sa tablang yapacan; nakikita niya at kanyang naririnig na humahaguinit ang yantoc!', '2073: Sa pagka\'t wala akong mga "mapa" upang sa kanila\'y macapagturo ako ng Geografia, sinalin ko ang isang mapang nakita ko sa "cabecera" (pangulong bayan ng lalawigan), at sa pamamag-itan ng sinalin kong ito, at ng mga baldosa ng yapacan, na iulat ko sa kanila ng caunti ang anyo nitong ating lupain.']
+----------------------------------------
+TOKEN: icaapat  ->  SUGGESTION: ikaapat
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['1366: Matutubos ng mga buhay ang mga calolowang namatay sa casalanan, sa pagsasalita ng mga nasasaysay sa "Avestra" at gumawa ng mga cagalingan; datapwat kinacailangang ang mananalangin ay isang camag-anak ng nasira hanggang sa icaapat na salin.', '3048: At nagtindig siya, pagkapagcaloob sa kanyang calaban ng icaapat na bahagui ng isang oras upang mag-isip.', '5021: Paggabi, at ng nasisindi ng lahat ang mga farol sa mga bintana, ginawa ang icaapat na paglabas ng procesion, na sinasabayan ng repique ng mga campana at ng talastas ng dating mga putucan.']
+----------------------------------------
+TOKEN: casuutan  ->  SUGGESTION: kasuutan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['1553: —"Ang piso—anya—ang piso\'y isang linggong caguinhawahan ng aking mga anak; isang linggong mga tawanan at mga catuwaan, ang aking inimpoc sa buong isang buwan, isang casuutan ng aking anak na babaeng nagdadalaga na.', "3563: Ayon sa mga damit europeong kanilang casuutan, marahil sila'y mga cawani (empleado) ng gobierno o mga punong lalawigan.", "3892: Pangdakila ang casuutan ng Alcalde at sa kanya'y nacalagay ang banda ni Carlos III at apat o limang mga condecoracion (mga saguisag na inilalagay sa dibdib, tanda ng sa nagdadala'y pagbibigay unlac ng isang hari o ng cataastaasang puno sa isang nacion."]
+----------------------------------------
+TOKEN: casiraan  ->  SUGGESTION: kasiraan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["512: Isinusumbong nilang nangamcam siya ng maraming lupa, hiningan siyang magbayad ng mga casiraan at mga caluguihang nangyari; sinabi nilang siya'y nakikipagcaibigan sa mga tulisan, upang pagpitaganan nila ang kanyang mga pananim at ang kanyang mga hayop.", "4599: Tiningnan siya ni Ibarra ng isang titig na wari'y nanganganino ang casiraan ng isip.", "5928: Ipinagpatuloy nito ang pagbasa, ngunit sa pagka't huminto ang pagtangis ng sa kanya'y nakikinig, lumipas ang caalaban ng kanyang loob sa kanyang gawa, at ang mga huling utos ng Dios ay nakapag-antoc sa kanya at sa kanya'y nacapaghicab, na ano pa't naging malaking casiraan sa pananalitang pahumal na nacayayamot na sa gayo'y nahihinto."]
+----------------------------------------
+TOKEN: casangcapang  ->  SUGGESTION: kasangkapang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["1020: Nacatipon ang sacristan mayor ng isang mabutibuti ng puhunan, sa pagbibili o sa pagpapalimos, sa pagka't ganito ang marapat na pagsasalita, ng mga casangcapang kinakailangan upang mailigtas ang calolowa at mabaka ang diablo: talastas ng ang espiritung ito, na ng una'y nangangahas na sumalansang ng pamukhaan sa Dios, at nag-aalinlangan sa pananampalataya sa mga wika nito, ayon sa sabi sa librong santo ni Job, na nagpailanglang sa alang-alang sa ating Panginoong Jesucristo, na gaya ng ginawa naman ng Edad Media sa mga bruja, at nananatili, ang sabihan, hangga ngayon sa paggawa ng gayon din sa mga asuang sa Filipinas; datapwat tila mandin ngayon ay naging mahihiyaing totoo na, hanggang sa hindi macatagal sa pagtingin sa capirasong damit na kinalalarawanan ng dalawang brazo, at natatacot sa mga buhol ng isang cordon: ngunit dito'y walang napagkikilala kung di sumusulong naman ang dunong sa panig na ito, at ang diablo'y aayaw sa pagsulong, o kung dili kaya'y hindi malulugdin sa pagbabagong asal, tulad sa lahat ng namamahay sa mga cadiliman, sacasacali't hindi ibig na sapantahain nating taglay niya ang mga cahinaan ng loob ng isang dalagang lalabing-limang taon lamang.", '3465: —ang isinagot ng lalaking naninilaw na ngumingiti ng cacaiba;—lalong malaking pangguiguilalas ang ating tatamuhin samantalang lalong marami ang mga casangcapang gamitin natin sa gawaing ito.', "5293: Sa cawacasa'y untiunting inalis niya ang mga casangcapang ibinunton sa tabi ng pinto: naririnig ng lalaki ang calampag, kaya't siya'y ngumingiti."]
+----------------------------------------
+TOKEN: munacalang  ->  SUGGESTION: munakalang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['7067: —Isang cakilakilabot at mabuting pagkakahandang munacalang tacsil na panggugulo, na sasambulat ngayon ding gabi.', "7113: sa pagka't bago kong natuclasan ang isang munacalang panggugulo na kayo ang ipinalalagay na may cagagawan at ng kayo'y ipahamac.", '7114: —¿Isang munacalang panggugulo?']
+----------------------------------------
+TOKEN: camunti  ->  SUGGESTION: kamunti
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["1408: Pagka ako'y naghihingalo na, ihahandog ko sa kanya ang aking cataohang walang camunti mang takot; gawin sa akin ang bawa't ibiguin.", "2483: Mga kibit ng balikat ang siyang sa kanya'y sagot ng nangaroon, sino ma'y walang nagmamalasakit ng camunti man lamang tungkol sa kalagayan ng abang babae.", "2671: Sa pagka't hindi gumagalaw ng camunti man lamang ang tubig, hindi nalalayo ang mga baclad at saka totoo pang maaga, pinagcayariang bitiwan ang mga gaod at mangag-agahan ang lahat."]
+----------------------------------------
+TOKEN: casalanang  ->  SUGGESTION: kasalanang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['1369: Ipinaalam nga nilang sa halagang isang "derem", salaping bahagya na ang halaga\'y nababawas sa calolowa ang isang taong pagkakasakit ng di cawasa; ngunit sa pagka\'t ayon sa religiong iyo\'y may mga casalanang pinarurusahan ng tatlong daan hanggang isang libong taon, gaya ng pagsisinungaling, ng pangdaraya, at ng hindi pagganap sa naipangaco, at iba pa, ang nangyari\'y tumatanggap ang mga balawis na sacerdote ng maraming millong "derems.', "3139: —Na ngayon din ay ibigay sa amin ang isang may casalanang nagngangalang Elias, na sa inyo'y namimiloto caninang umaga,—ang isinagot na may anyong pagbabala.", "5930: —ang iniisip sa sarili ng matandang babae;—nagcacasalang tulad sa isang sundalo ang batang ito laban sa unang limang utos ng Dios, datapwat hindi kahi't isang casalanang magaang man lamang mula sa icaanim hangang sa icasampo, ano pa't tumbalic sa amin!"]
+----------------------------------------
+TOKEN: calang  ->  SUGGESTION: kalang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["1575: Nang gabing yaon, icasampo't calahati o labing-isa ang horas, ng numiningning na ang mga bituin sa langit na pinaliwanag ng unos, nacaupo si Sisa sa isang bangcong kahoy na pinagmamasdan ang ilang mga sanga ng kahoy na nagniningasningas sa calang may tatlong batong-buhay na may mga dunggot.", "2619: Sa isang bangcang lalong marikit ang pagkakagayac ay may isang arpa, mga guitarra, mga acordeon at isang sungay ng kalabaw; sa isang bangca nama'y nagniningas ang mga calang lupa at doo'y inihahanda ang cha, cafe at salabat na gagawing agahan.", '2886: Umaalingawngaw sa alang-alang ang musica; napaimbulog ng buong casayahan ang usoc ng mga calang ang anyo\'y manipis na ipoipo: umaawit ang tubig sa loob ng mainit na palayoc; marahil ay mga salitang pang-aliw sa mga isdang patay, marahil ay libac at cutya: nagpapapihitpihit ang bangkay ng buaya, kung minsa\'y biglang ipinakikita ang maputi at wacwac na tiyan, kung minsan nama\'y biglang ipinakikita ang may pinta at namemerdeng likod, ngunit hindi nagugulumihanan ang taong minamahal ng Naturaleza, sa gayong caraming pagpatay na kusa sa mga kapatid, ayon sa sasabihin marahil ng mga "bramin" o ng mga "vegetariano.']
+----------------------------------------
+TOKEN: napacalabis  ->  SUGGESTION: napakalabis
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['514: Napilitang iwan ng "alcade" ang kanyang catungculan, hinalinhan siya ng ibang, ayon sa balita\'y, masintahin sa catuwiran, ngunit sa casaliwaang palad, ito\'y ilang buwan lamang nanatili roon, at ang napahalili sa kanya\'y napacalabis naman ang pagka maibiguin sa mabuting kabayo.', "553: Ang bao ng kanyang ulong bilog, maliit at nalalaganapan ng buhok na casing itim ng luyong, mahaba sa dakong harapan at totoong maicli sa licuran; hindi nagbabago kailan man ng anyo ang kanyang mga matang maliliit man ay di singkit na gaya ng sa insic, mahayap na hindi sapat ang kanyang ilong, at kung hindi sana pumangit ang kanyang bibig, dahil sa napacalabis na pagmamascada niya at pagnganga, na sinisimpan ang sapa sa isang pisngi, na siyang nacasisira ng pagkakatimbang ng tabas ng mukha, masasabi naming totoong magaling ang kanyang paniniwala at pagpapasampalatayang siya'y magandang lalaki.", '927: Sa halimbawa: iyang napacalabis na pagsusumakit na dagdagan sa taontaon, ayon sa ating maibigan, ang halaga ng buwis ng ating mga lupa, ang pagsusumakit na iyang aking sinalansang sa lahat ng mga malalaking pulong natin; ¡ang pagsusumakit na iyan ang siyang macapapahamac sa atin!']
+----------------------------------------
+TOKEN: macahulugan  ->  SUGGESTION: makahulugan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['1176: —¿Opo, malaki,—ang pinapagtibay na sagot ng matandang lalaki ng buong catuwaan, at tinitingnan niya ng macahulugan si Ibarra, at sumaya naman ang mukha nito!', '2156: Nangagkindatan at nangaghudyatan ng macahulugan ang mga conservador.', '2393: —Nagsuliapan ang dalawang sundalo ng macahulugan.']
+----------------------------------------
+TOKEN: pasco  ->  SUGGESTION: pasko
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['1489: —Sabihin mong maigui ang pagkabugbog sa akin, ipakikita ko ang aking mga pasa at ang punit kong bulsa: hindi ako nagcaroon kailan man kung di isang cuarta lamang na ibinigay sa akin niyong pasco at kinuha sa akin kahapon ng cura ang isang cuartang iyon.', '7343: —ani hermana Rufa; na mamatay silang lahat ngayon pa namang malapit na ang pasco, na capanahunan ng kanilang pagreregalo ...', "7924: Dadivae quebrantant peñas; (dumudurog ng bato ang handog); sabihin mong iya'y handog dahil sa pasco."]
+----------------------------------------
+TOKEN: casucatan  ->  SUGGESTION: kasukatan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["1381: Hindi binabangguit ni Moises at ni Jesucristo caunti man lamang ang Purgatorio, at hindi nga casucatan ang tanging saysay na kanilang sabing na sa mga Macabeo, sa pagka't bucod sa ipinasiya sa Concilio ng Laodicea, na hindi katotohanan ang librong ito, ay nito na lamang huling panahon tinanggap ng Santa Iglesia Catolica.", "2032: Sinabi sa aking pinasasama ko raw ang mga bata; na sinasayang ko ang panahon; na hindi ako gumaganap sa aking catungculan; na ang amang hindi namamalo ay napopoot sa kanyang anak, ayon sa Espiritu Santo; na ang letra'y pumapasoc sa pamamag-itan ng dugo, at iba't iba pa; sinaysay sa akin ang isang buntong mga casabihan ng panahon ng mga catampalasanan, na ano pa't wari'y casucatan ng nasabi ang isang bagay ng mga tao sa una upang huwag ng matutulan, at alinsunod sa ganitong palacad ng isip ay dapat na nga marahil nating paniwalaang nagcaroon sa daigdig ng mga cakilakilabot na anyo ng mga hayop na kinatha ng isip ng mga tao ng mga panahong iyon at kanilang iniukit sa kanilang mga palacio at mga catedral.", '3463: —Sa ganang akin ay napacarami namang kahoy ang gamit na iyan sa isang cabria—ang kanyang sinabi sa isang taong naninilaw, na siyang namamatnubay sa ilang mga manggagawa;—casucatan na, sa ganang akin, ang tatlong mahahabang trozo na papagtutungcuing-calan o "tripode", at saka tatlo pang kahoy na papagcapitcapitin!']
+----------------------------------------
+TOKEN: pagyucod  ->  SUGGESTION: pagyukod
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["3340: Pagkaraan ng hangin, nananag-uli ang puno ng rosa sa pagtuwid, at ipinagmamalaki ang kanyang cayamanan, ¿sino ang sa kanya'y macacapipintas dahil sa kanyang pahihinuhod sa pangangailangan, sa macatuwid baga'y sa pangangailangang pagyucod?", "4879: Sila'y nangagsiyucod ng buong capacumbabaan, liban na lamang kay pari Sibyla, na pinapanatili, sampo sa kanyang pagyucod, ang tanging anyo ng isang nacatataas kay sa iba; na ano pa't baligtad sa ginawa ni pari Salvi, na halos hinutoc ang bayawang.", "4892: Gayon ma'y gumamit ng calugod-lugod at mapitagang pagyucod."]
+----------------------------------------
+TOKEN: cagandagandahan  ->  SUGGESTION: kagandagandahan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['607: Kaya nga\'t ipinalalagay ng mga punong macapangyarihang siya\'y isang magaling na tao, cagandagandahan ang puso, payapa, mapagpacumbaba, masunurin, mapagpakitang loob, na hindi bumabasa ng ano mang libro o periodicong galing sa España, baga man magaling mag-wikang kastila; ang tingin sa kanya, nila\'y tulad sa pagmamasid ng isang abang estudiante sa gasgas na tacon ng kanyang luma ng zapato, pakiling dahil sa anyo ng kanyang paglakad:—Naguiguing katotohanan, sa kalagayan niya, ang casabihan ng mga cristianong "beati pauperis spiritu" at ang caraniwang casabihang "beati possidentes", at mangyayaring maipatungcol sa kanya yaong mga sabing griego na anang iba\'y mali ang pagkakahulog sa wikang kastila: "¡Gloria a Dios en las alturas y paz a los hombres de buena voluntad"!', "3680: Diya'y nagtamo caming capalarang pangguilalasan, hindi lamang ang lubhang mahahalagang casangcapan at cagalingang magpamuti ng may-ari ng bagay, bagay na hindi caraniwan sa mga taong tubo rito, kung di naman ang camahalmahalan, cagandagandahan at mayamang dalagang magmamana, na nagpakilalang siya'y tunay at ganap na alagad ni Santa Cecilia sa pagtugtog ng lalong caayaayang musicang likha ng mga aleman at ng mga italiano, sa kanyang mainam na piano, na ano pa't ang kanyang cagalingang tumugtog ay nagpaalaala sa akin sa babaeng si Galvez.", "4417: kinacailangang pacauliniguin at sila'y pakinggan, at ng ang mga caayaayang tinig nilang nagpapailanglang sa calolowa sa calangitang kinarorooran ng walang hanggan at ng lalong cagandagandahan...."]
+----------------------------------------
+TOKEN: capatagang  ->  SUGGESTION: kapatagang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['964: Halos sa pampang ng dagatan ang kinalalagyan ng bayang San Diego, na sumasaguitna ng mga capatagang halamanan at mga palayan.', "3428: Ngunit ang kinaroroonan ng lalong malaking casayahang halos ay caguluhan na'y doon sa isang malapad na capatagang mataas, na ilang hacbang lamang ang layo sa bahay ni Ibarra.", '3453: Itinatalaga ang capatagang iyang lampaslampasan ang hangin upang diyan mangagtacbuhan at mangaglucsuhan ang mga bata.']
+----------------------------------------
+TOKEN: nacaaalam  ->  SUGGESTION: nakaaalam
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['743: Ngunit kinuha ng iyong nanay ang aking corona, pinucpoc ng isang bato at saka inihalo sa gugo na ipinaglilinis ng ating ulo; tumulo ang mga luha sa iyong mga mata, at sinabi mong hindi nacaaalam ang iyong ina ng "mitologia".', "2082: ¿Sino ang nacaaalam kung doo'y magcacaroon po kayo ng sagot sa inyong mga tanong?", '3476: —¿Sino ang nacaaalam!']
+----------------------------------------
+TOKEN: acala'y  ->  SUGGESTION: akala'y
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["726: Macailang ang buong isip ko'y aking naririnig ang mga tunog ng iyong piano at ang mga tinig ng iyong voces, at kailan mang tinatawag ko ang iyong pangalan ng ako'y na sa Alemania, sa dakong hapon, pagka naglalacad ako sa mga caparangang napupuspos ng mga talinghagang likha ng mga poeta roon at ang mga cahimahimalang salitsaling sabi ng mga taong nangaunang nabuhay, nakikinikinita ko ikaw sa ulap na sumisilang at napaiimbulog sa duyo ng capatagan, wari nariringig ko ang iyong voces sa pagaspas ng mga dahon, at pagka umuuwi na ang mga tagabukid na galing sa kanilang sinasacang lupa at kanilang ipinariringig buhat sa malayo ang kanilang caraniwang mga awit, sa aking acala'y pawang nakikisaliw sila sa mga voces ng caibuturan ng aking dibdib, na nag-aalay na lahat sa iyo ng awit at siyang nagbibigay katotohanan sa aking mga nais at mga panaguimpan.", '1746: Walang sinasabi si Sisa kung di "oo" sa lahat, sa kanyang acala\'y ang lahat ay magaling.', "2537: Pagka ako'y kinacausap niya, siya'y may isang voces na ... sinasabi sa akin ang mga bagay na totoong cacaiba, na hindi mapaglirip, na totoong cacatuwa ... minsa'y itinanong niya sa akin kung hindi ko nananag-inip ng tungkol sa mga sulat ng nanay; sa aking acala'y halos nasisira ang kanyang bait."]
+----------------------------------------
+TOKEN: calinisan  ->  SUGGESTION: kalinisan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['724: Sa aking sapantaha\'y ikaw ang "hada", ang espiritu, ang caayaayang kinacatawan ng aking Bayang kinaguisnan, maganda, mahinhin, masintahin, lubos calinisan, anak ng Filipinas, niyang cagandagandahang lupang bucod sa mga dakilang cagalingan ng Inang Españang taglay rin niya\'y may maririkit pang mga hiyas ng isang bayang bata, tulad sa pagkakapisan sa iyong cataohan ng lahat ng cagandahan at carikitang nacapagpapaningning sa dalawang lahi; kaya nga\'t nabubuo lamang sa isa ang pagsinta ko sa iyo\'t ang pagsinta ko sa aking tinubuang lupa ...', '1378: Masasabi nating sa ganang atin ay magaling, santo at na sa catuwiran ang pagkakahaca ng Purgatorio; nananatili ang pagmamahalan ng mga patay at ng mga buhay at siyang nacapipilit sa lalong calinisan ng pamumuhay.', "4603: Bawa't isa'y nagbubulaybulay alinsunod sa abot ng cataasan ng canicanilang calinisan ng budhi."]
+----------------------------------------
+TOKEN: capacete  ->  SUGGESTION: kapacete
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['2362: Nang malapit na siya sa kanyang bahay ay kanyang natanawan ang mga capacete ng dalawang sundalong na sa ibabaw ng bacuran ng kanyang halamanan.', "5288: Dinampot ng alferez ang kanyang capacete, naghusay ng caunti, at saka umalis na ang hakbang ay malalaki, datapwa't pagkaraan ng ilang sandali'y dahandahang bumalic: siya'y nag-alis ng kanyang mga bota.", '6280: —Hindi mo dapat pakikamayan ang isang abang alferez lamang,—ang sinabi sa kanyang asawa ng malayo na ang alferez;—bahagya na niya hinipo ang kanyang capacete at ikaw ay nagpugay ng sombrero; hindi ka marunong magbigay camahalan sa iyong cataasan!']
+----------------------------------------
+TOKEN: catungcula'y  ->  SUGGESTION: katungkula'y
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['5603: Siya\'y na pa sa Pilipinas na ang catungcula\'y Oficial Quinto sa mga Aduana, datapwat totoong napacalihis ang kanyang palad, na bucod sa siya\'y nahilong mainam at nabalian siya ng isang hita samantalang naglalacbay-dagat, binawian siya ng catungculan ng macaraan ang labing limang araw mula ng siya\'y dumating, pagbawing sa capanahuna\'y dinala sa kanya ng "Salvadora", ng wala na siya cahit isang cuarta man lamang.', "6491: Pinatitiguil ang pakikipanayam ng bayan sa capuwa bayan, sa pagka't natatacot ang lahat na sila'y mapahirapan sa mga walang cabuluhang bagay; lalong tinitingnan ang mga pagtupad sa dakong labas at hindi pinagcucuro ang sumasadacong loob ng mga bagay; unang pagpapakilala ng casalatan sa kaya; dahil sa nalimutan lamang ng isang tao ang caniyang cedula personal ay guinagapos na't pinahihirapan, na hindi winawari kung ang taong iyo'y mahal at kinaaalanganan; inaacala ng mga puno na ang kanilang pangulong catungcula'y ang ibatas na sila'y pagpugayan ng kusa o sapilitan, cahit sa gitna ng cadiliman ng gabi, at sa bagay na ito'y tinutularan sila ng kanilang mga sacop upang magpahirap at mangagaw sa mga taga bukid, at sa gayong gawa'y hindi sila nawawalan ng sangcalan, wala ang pagpipitagan sa cadakilaan ng tahanang bahay; hindi pa nalalaong sinalacat ng mga guardia civil, na nangagdaan sa bintana, ang bahay ng isang payapang mamamayan, na pinagcacautangan ng salapi at ng magandang loob ng kanilang puno; wala ang capanatagan ng tao; pagka kinacailangan nilang linisin ang kanilang cuartel o ang bahay, sila'y lumalabas at kanilang hinuhuli ang lahat ng hindi lumalaban, upang pagawin sa buong maghapon; ¿ibig pa po ba ninyo?", "8123: —ang tanong ng bagong teniente, na dahil sa kanyang pagkataas sa catungcula'y ngayo'y naging mairuguin."]
+----------------------------------------
+TOKEN: macapanood  ->  SUGGESTION: makapanood
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["2365: Hindi mga tao ang mga guardia civil, sila'y mga guardia civil lamang: hindi nila diniringig ang mga panghihimanhik at sila'y bihasang macapanood ng mga luha.", "5289: Palibhasa'y bihasang macapanood ang mga alila roon ng mga ganitong pangyayari, caraniwang sila'y inaabot ng yamot, ngunit kanilang pinagtakhan ang pag-aalis ng mga bota, bagay na hindi dating ginagawa, kaya't nangagkindatan ang isa't isa.", "5321: Sa daco rito'y may nababaling paa ng isang bangco at nangahuhulog sa lupa, sa gitna ng tawanan ng caramihan, ang mga taong nanggaling sa malayo at ng macapanood ay ngayo'y siyang naguiguing panoorin; sa daco roo'y nangag-aaway sa pagpapangagaw sa lugar; sa dakong malayo pa roo'y may nariringig na isang calampagan ng nababasag na mga copa at mga botella: yao'y si Andeng na may dalang mga alac at mga pangpatid uhaw; maingat na tangan ng dalawang kamay ang malapad na bandeja, ngunit kanyang nacasalubong ang sa kanya'y nangingibig, na nag-acalang magsamantala ng gayong kalagayan ..."]
+----------------------------------------
+TOKEN: nacapagbigay  ->  SUGGESTION: nakapagbigay
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["720: Nang magcagayo'y tinangnan ko ang iyong kamay at ang kamay ng aking ina, nanumpa akong sisintahin cata, cata'y paliligayahin, ano man ang capalarang sa aki'y ipagcaloob ng Langit, at sa pagka't hindi nacapagbigay pighati kailan man sa akin ang sumpang ito; ngayo'y muling inuulit ko sa iyo.", '806: Hindi pinapansin ng mga taong nagdudumaling dumaraan ang bagay na iyon; nagdaraan ang mga babae, tinitingnan sila at nangagpapatuloy ng paglakad, caraniwan ng mapanood ang mga bagay na yaon, linipacan na ang mga puso; nangagtatacbuhan ang mga coche, ipinaaanino sa kanilang catawang may barniz ang mga sinag ng araw na iyong maningning sa isang langit na walang alapaap; sa kanya lamang, batang may labing isang taon at bagong cararating na galing sa kanyang bayan, nacalalaguim ang napapanood na iyon; sa kanya lamang nacapagbigay bangungot ng kinagabihan.', '3036: Nang na sa calaghatian na ang laro, tumanggap si Ibarra ng isang telegrama na nagpaningning ng kanyang mga mata at nacapagbigay sa kanya ng pamumutla.']
+----------------------------------------
+TOKEN: mapamintacasing  ->  SUGGESTION: mapamintakasing
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["591: Nakikita pa ng mga mapamintacasing tao ang mga bacas ng mga paa at ang hilahis ng buhok ng Virgen de la Paz sa matigas na bato, ng pigain niya ang mga buhok na iyon, ano pa't walang pinagibhan sa alin mang babaeng gumagamit ng langis ng niyog, at para manding patalim ang kanyang mga buhok, o kung dili kaya'y diamante at walang pinag-ibhan sa may sanlibong tonelada ang bigat.", '592: Ibig sana naming ihaplit ng cagulatgulat na larawan ang kanyang mahal na buhok sa mga mata ng mga taong mapamintacasing ito, at kanyang tuntungan ang kanilang dila o ulo.', '1031: Nanghihiganti sa sariling katawan ang alferez, sa kanyang pagkawalang palad sa matrimonio, na nagpapacalasing hanggang sa di macamalay-tao; pinag-"eejercicio" ang kanyang mga sundalo sa arawan at siya\'y sumisilong sa lilim, o kung dili kaya, at ito\'y siyang lalong madalas, pinapagpag niya ng palo ang likod ng kanyang asawa, na kung di man isang "cordero" (tupa) ng Dios na umaalis ng casalanan nino man, datapwat nagagamit naman sa pagbabawas sa kanya ng maraming mga cahirapan sa Purgatorio, sacali\'t siya\'y maparoon, bagay na pinag-aalinlanganan ng mapamintacasing mga babae.']
+----------------------------------------
+TOKEN: pagtacas  ->  SUGGESTION: pagtakas
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['701: At pagkatapos, sa pagtacas ng dalawang nagsisintahan sa "plumero" ng tia Isabel na nagpapabangon sa alicaboc, sila\'y pumaroon sa azotea upang sila\'y makapag-usap ng buong calayaan sa silong ng mga balag; ¿ano ang kanilang pinag-usapan ng marahan at nanginginig kayo, mga maliliit na bulaklak ng "cabello-de-angel"?', '1229: Lumalacad na parang may pinagtatanauan, marahil sa pagtacas sa anino ng kanyang ama, o baka naman kaya sa dumadating na unos.', '3604: Tumatacbo sa pagtacas ang sanlazarohin, hinahabol siya ng tagapalo at sinisigawan siya ng gobernadorcillo: "¡Mag-aral ka!']
+----------------------------------------
+TOKEN: kinacaladcad  ->  SUGGESTION: kinakaladkad
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['697: Masaya ang salitaan ni Kapitang Tiago at ni Ibarra ng sumipot si tia Isabel na halos kinacaladcad ang kanyang pamangking babae, na nagpapalingalinga kung saansaan, datapwat hindi tumitingin sa kanino mang tao....', "2007: datapwat ipinanganac ako sa lupaing ito, kinacailangan kong mabuhay, may isang ina ako, kaya't nakikisang-ayon na lamang ako sa aking capalaran, tulad sa bangkay na kinacaladcad ng alon.", '3649: Casasabi pa ng gayong bagay ng kanilang makitang hindi inihahatid kung di kinacaladcad ang ul-ol na babae ng isang soldado: aayaw sumama si Sisa.']
+----------------------------------------
+TOKEN: casulatan  ->  SUGGESTION: kasulatan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['660: Sinisiyasat at inuusisa ni Kapitang Tiago ang mga ilang casulatan.', '3499: At siya nga naman: hinandugan ang kanyang mamanugangin ng isa sa lalong mga dalubasang pamahayagan sa Maynila ng isang "articulo" (casulatan) sa kanyang unang mukha, na ang pamagat (ng articulong iyon) ay "¡Siya\'y inyong tularan!', '4095: Doon sa caitaasan, sa lilim ng mga anino ng mga malalaking kahoy, ng mga guirnalda at ng mga bandera, nacabiting ang tali ay mga lubid at mga ganchong bacal, ang isang pagkalakilaking "polea" na may tatlong "rueda," at sa mga nagniningning na taguiliran nito\'y nacasulot at nacasacay ang tatlong lubid na lalo pa manding malalaki kay sa mga iba, at nacabitin sa tatlong pagsalalaking mga lubid na ito ang isang pagkalakilaking "sillar" na buo na may hucay sa dakong gitna, na kung itama sa capuwa guang ng isang batong capapatungang na sa ilalim na ng hucay, siyang maguiguing guang na laang paglalagyan ng casaysayang casalucuyan, ng mga pamahayagan, ng mga casulatan, ng mga salapi, ng mga medalla at iba pa, at ng maibalita ang mga bagay na iyon sa mga taong mabubuhay sa cahulihulihang panahon.']
+----------------------------------------
+TOKEN: kinacausap  ->  SUGGESTION: kinakausap
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["2537: Pagka ako'y kinacausap niya, siya'y may isang voces na ... sinasabi sa akin ang mga bagay na totoong cacaiba, na hindi mapaglirip, na totoong cacatuwa ... minsa'y itinanong niya sa akin kung hindi ko nananag-inip ng tungkol sa mga sulat ng nanay; sa aking acala'y halos nasisira ang kanyang bait.", "3033: Hinarap ng mga matatandang babae, gayon man, ang cura, upang makipagsalitaan sa kanya tungkol sa mga bagay na nauucol sa religion; datapwat hindi marahil minamagaling ni fray Salvi ang lugar na kinalalagyan at ang capanahunang iyon, kaya nga't pawang mga malalabo ang caniyang mga isinasagot at mapapanglaw at may galit na halo, at ang kanyang mga matang hindi tumitingin man lamang sa kanyang mga kinacausap ay nagpapalingaplingap sa magcabicabila.", '5716: —ang isinalabat ni Linares, na si pari Salvi ang kinacausap;—malapit daw rito ang sabi sa akin.']
+----------------------------------------
+TOKEN: cahirapang  ->  SUGGESTION: kahirapang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["600: Na siya'y kasundo ng Gobierno, ang baga'y na ito'y hindi dapat pag alinlanganan, baga man tila mandin may cahirapang ito'y mangyari.", '1565: Datapwat hindi nakikita ng mga aso at ng iba pang mga hayop ang mga pagpipighati ng mga tao, at gayon man, ¡gaano carami ang kanilang mga cahirapang tinitiis!', '3222: Inuulit kong kung hindi nga lamang sa cahirapan ng pagdidibujo na kinacailangang pacabutihin, halos magagamit nga ang mga "geroglifico;" datapwat ang cahirapang ding ito ang siyang pumimipilit sa aking huwag magsalita ng malawig at huwag magsaysay kung di iyong catatagan at kinakailangan lamang: bucod sa rito\'y sinasamahan ako ng pinagpapagalan kong ito, pagka umaalis ang aking mga panauhing taga China at taga Japon.']
+----------------------------------------
+TOKEN: fiscal  ->  SUGGESTION: fiskal
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['603: " Lagui ng may handa siyang mga orquesta upang bumati at tumapat sa kanino mang mga gobernador, mga alcalde, mga fiscal, at iba pa, sa kanilang mga caarawan ng santong calagyo, caarawan ng capanganacan, panganganac o pagkamatay ng isang camag-anak, sa maicling salita\'y ang ano mang pagbabagong lakad ng pamumuhay na caraniwan.', "7740: Lihim na ibinalita ng telegrafo ang nangyaring iyon sa Maynila at ng macaraan ang tatlompo't anim na horas ay nangagsasaysay na ng bagay na iyon ng malaking talinghaga at hindi cacaunting mga pagbabala, ang mga pamahayagan, na dinagdagan, pinagbuti at binawasan ng fiscal.", "8139: —Kung ang binatang iyan,—ang patuloy na sinabi ng teniente Guevara, ng malakas at anyong may galit;—ay natutong mag-ingat; kung siya'y natutong huwag tumiwalang totoo sa mga tanging taong kanyang casulatan; kung hindi sana napacadunong ang ating mga fiscal na magbigay kahulugan ng napacalabis naman sa nasusulat, pinasiyahan sanang walang ano mang casalanan ang binatang iyan."]
+----------------------------------------
+TOKEN: cahinhinan  ->  SUGGESTION: kahinhinan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['2614: Bagamat hindi nililimot ni Ibarra ang cahinhinan, nakikisalamuha siya sa casayahan ng kanyang mga casamahan.', '3710: Nacapangguiguilalas ang panonood ng cahinhinan at ningas ng loob na iniuudioc sa puso ng mga nanampalataya sa kanilang wagas at malaking pananalig sa Virgen de la Paz ang pagdiriwang na lubos at marubdob na pamimintacasing ginagawa nating nagtamo ng palad na ipanganac sa lilim ng casantasantahan at walang bahid na dungis na bandera ng España sa ganitong mga cafiestahan.', '3908: Nangagsiupo sa kanilang mga sillon ang tatlong sacerdote, na ang anyo\'y nakapag-bibigay uliran sa cahinhinan, ayon sa sasabihin marahil ng may malinis na caloobang "corresponsal;" tinularan sila ng Alcalde at iba pang mga taong may vara at may baston; huminto ang musica:']
+----------------------------------------
+TOKEN: pagkatacot  ->  SUGGESTION: pagkatakot
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['2797: Nagpalipatlipat ng buong tulin sa mga bibig ang salitang iyon, sa gitna ng pagkatacot at pagkamangha ng lahat.', "4552: Sa lubos na pagkagulat at pagkatacot, sino ma'y walang nangahas mamaguitna.", "4641: Sino ma'y walang macapagpapatawad sa gayong sa kanya'y pagkatacot."]
+----------------------------------------
+TOKEN: cawayanan  ->  SUGGESTION: kawayanan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["739: Niyo'y mga musmos pa tayo, naparoon tayong naligong kasama ang iyong ina sa batis na iyong nalililiman ng mga cawayanan.", '810: Tinakhan niya ang bagong "Puente de España"; nangagpaalaala sa kanya ng mga maguiguinaw na umaga, kung doo\'y dumaraang namamangca silang patungo sa mga paliguan sa Uli-uli, ang mga bahay na na sa pangpang na dakong kanan ng ilog, na napapag-itanan ng mga cawayanan at mga punong kahoy, doon sa wacas ng Escolta at pasimula ng Isla del Romero.', "845: Pabayaan nating maglacbay ang binatang nagdidilidili o nacacatulog: ang hiwagang malungcot o masaya ng catapangang hindi nacacaakit ng kanyang gunamgunam: ang araw na iyong nagpapapakintab sa mga dulo ng mga kahoy at nagpapatacbo sa mga tagabukid na nangapapaso ang mga paa sa nagbabagang lupa, baga man sila'y may panyapac na mga lipac; ang araw na iyong pumipiguil sa isang babaeng tagabukid sa lilim ng isang talisay o cawayanan, at sa kanya'y nagpapaisip ng mga bagaybagay na walang catuturan at di mapagwari, ang isip na iyo'y hindi nacalulugod sa ating binata."]
+----------------------------------------
+TOKEN: carretong  ->  SUGGESTION: karretong
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['796: Ang casayahang hindi naglilicat sa lahat ng panig, ang lubhang maraming cocheng nagpaparoo\'t paritong sacdal ng tutulin, ang mga carromata, ang mga calesa, ang mga europeo, ang mga insic, ang mga dalisay na tagarito, na bawa\'t isa\'y may canicanyang sariling pananamit, ang mga naglalaco ng mga bungang-kahoy at halaman, mga corredor, hubad na cargador, mga tinda ng mga cacanin, mga fonda, mga restaurant, mga tindahan, sampo ng mga carretong hila ng mga mapagpaumanhin at walang damdaming kalabaw na tila mandin naglilibang sa paghila ng mga "bulto" samantalang naglilininglining, ang lahat ng ingay at calugcog, pati ng araw, isang amo\'y na tangi, ang sarisaring mga kulay, pawang pumupucaw sa kanyang alaala ng isang daigdig na nagugupiling na mga gunita.', "804: Sa lilim ng isang carretong kahoy nacabulagta ang isa sa mga taong iyon, walang malay tao, bukas ng caunti ang mga mata; pinagbubuti naman ng dalawang presidiario rin ang isang hihigang cawayan, walang galit, walang pighati, walang yamot, ano pa't walang pinag-ibhan sa sinasabing caugalia't anyo ng dalisay na mga tagarito.", '842: Kung minsa\'y isang carretong hila ng isang kalabaw na marahan ang lakad at parang walang ano man ang siyang nacawawala ng capanglawan ng maluluang at maalicaboc na mga lansangang napapaliguan ng makinang na araw ng mga "tropico".']
+----------------------------------------
+TOKEN: macapapahamac  ->  SUGGESTION: makapapahamac
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['927: Sa halimbawa: iyang napacalabis na pagsusumakit na dagdagan sa taontaon, ayon sa ating maibigan, ang halaga ng buwis ng ating mga lupa, ang pagsusumakit na iyang aking sinalansang sa lahat ng mga malalaking pulong natin; ¡ang pagsusumakit na iyan ang siyang macapapahamac sa atin!', "5104: Kailan ma'y hindi naging carapatdapat macaakit sa kanino man ng pagpapalagay ng loob ang marilim na pagmumukha ng ginoong babaeng ito, kahi't kung siya'y nagpipinta, ng kanyang mukha, nguni siya'y totoong nacapagbigay balisa ng umagang iyon, lalong lalo na ng siya'y mapanood na magpabalicbalic ng paglakad sa magcabicabilang dulo ng bahay, na walang imic at wari mandi'y nagbabalacbalac ng isang bagay na cagulatgulat o macapapahamac: taglay ng kanyang paningin iyang sinag na ibinubuga ng isang ahas pagka inaacmaang lusayin kung siya'y nahuhuli; ang paninging yao'y malamig, nagninining, tumataos at may cadulingasan, carumaldumal, malupit.", '7108: —Sunuguin po ninyo ang lahat na macapapahamac sa inyo at sa loob ng isang oras ay lumagay kayo sa isang lugar na lalong panatag.']
+----------------------------------------
+TOKEN: cahulihulihang  ->  SUGGESTION: kahulihulihang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["2138: Ako ang naunang nagsalita, baga man lalong may carapatang mangauna sa akin ang mga caumpoc dito, ngunit ako ang unang nagsalita, sa pagka't sa acala ko'y sa mga ganitong bagay, ang magpasimula ng pananalita'y hindi ang cahuluga'y siyang nangunguna, at gayon ding hindi ang cabuntutan ang cahulugan ng cahulihulihang magsaysay.", '2790: Niyong araw na bago mag "Todos los Santos" ang cahulihulihang pagkapandaw nito.', '4095: Doon sa caitaasan, sa lilim ng mga anino ng mga malalaking kahoy, ng mga guirnalda at ng mga bandera, nacabiting ang tali ay mga lubid at mga ganchong bacal, ang isang pagkalakilaking "polea" na may tatlong "rueda," at sa mga nagniningning na taguiliran nito\'y nacasulot at nacasacay ang tatlong lubid na lalo pa manding malalaki kay sa mga iba, at nacabitin sa tatlong pagsalalaking mga lubid na ito ang isang pagkalakilaking "sillar" na buo na may hucay sa dakong gitna, na kung itama sa capuwa guang ng isang batong capapatungang na sa ilalim na ng hucay, siyang maguiguing guang na laang paglalagyan ng casaysayang casalucuyan, ng mga pamahayagan, ng mga casulatan, ng mga salapi, ng mga medalla at iba pa, at ng maibalita ang mga bagay na iyon sa mga taong mabubuhay sa cahulihulihang panahon.']
+----------------------------------------
+TOKEN: carumaldumal  ->  SUGGESTION: karumaldumal
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["3293: ¡Pagka naliwanagan ng sicat ng araw ang carumaldumal na anak ng mga cadiliman, kung magcagayo'y darating ang cakilakilabot na pananag-uli ng isip, bubugso at sasambulat ang hindi maulatang lakas na kinulong sa lubhang mahabang panahon, ang napacaraming camandag na isaisang patac na sinala, ang di masayod na mga himutoc na linunod ...", "5104: Kailan ma'y hindi naging carapatdapat macaakit sa kanino man ng pagpapalagay ng loob ang marilim na pagmumukha ng ginoong babaeng ito, kahi't kung siya'y nagpipinta, ng kanyang mukha, nguni siya'y totoong nacapagbigay balisa ng umagang iyon, lalong lalo na ng siya'y mapanood na magpabalicbalic ng paglakad sa magcabicabilang dulo ng bahay, na walang imic at wari mandi'y nagbabalacbalac ng isang bagay na cagulatgulat o macapapahamac: taglay ng kanyang paningin iyang sinag na ibinubuga ng isang ahas pagka inaacmaang lusayin kung siya'y nahuhuli; ang paninging yao'y malamig, nagninining, tumataos at may cadulingasan, carumaldumal, malupit.", '7517: Sa isang suloc ng patio, sa ibabaw ng isang carretong luma, ay nacabunton ang limang bangkay, na halos natatacpan ng capirasong gulanit na banig na puno ng carumaldumal na mga dumi.']
+----------------------------------------
+TOKEN: calilimutan  ->  SUGGESTION: kalilimutan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['1965: —Pacapupurihin at di po kayo calilimutan ng bayan kung inyong papangyarihin ang magagandang mga panucala ng inyong nasirang ama!', "3916: Ipinahiwatig niya sa isang tanging kirap, na hindi calilimutan sa kanyang mga pananalangin ang casintahan ni Maria Clara; tinitigan ng tinging may towa si Pari Sibyla at saka niya sinulyap ng tinging kalakip ang pagpapawalang halaga si Pari Manuel Marsing cahapo'y nagsermon.", '4977: —¡Hindi ko calilimutan hanggang nabubuhay ang magandang loob na pakita sa akin ng inyo pong camahalan!']
+----------------------------------------
+TOKEN: cagamutan  ->  SUGGESTION: kagamutan
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["1972: —At kayong nacacakita ng casam-an, ¿ano't hindi ninyo pinag-isip na bigyang cagamutan?", "1980: Upang mabigyang cagamutan ang casamaang sa inyo'y sinasabi ko, aking minagaling na magturo ng wikang kastila sa mga bata, sa pagka't bucod sa ipinag-uutos ng Gobierno, inacala ko namang ito'y isang cagalingan ng lahat.", "3298: Tunay nga't may mga capaslangang nagagawa, hindi ko rin naman icacailang siya'y may mga caculangan; datapwat nagpapagal ang España ng pagbabago ng mga cautusan at mga palacad na namamasid niyang di totoong wasto upang mabigyang cagamutan ang gayong mga capaslangan at mga caculangan; nagbabalac ng mga bago't bagong panucala, hindi masamang asal."]
+----------------------------------------
+TOKEN: culubot  ->  SUGGESTION: kulubot
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['869: Nacaupo sa isang malaking sillon ang isang matandang pari, culubot at ga namumutla na ang balat ng mukha, cawangis ng isa riyan sa mga santong ipininta ni Rivera.', '5584: Ang sa babaeng pananamit ay isang sutlang "bata" na nabuburdahan ng mga bulaklak, at may isang sombrerong may isang malaking ibong "papagayo" na halos nababayuot sa mga cintas na azul at pula; ang nangagcacahalong alaboc ng daan at galapong ng bigas sa kanyang mga pisngi ang siya manding nagdaragdag ng kanyang mga culubot; ngayo\'y inaalalayan sa mga bisig ang kanyang asawang pilay, na gaya rin ng siya\'y makita natin sa Maynila.', "5624: Si doña Victorina'y di na masasabing maaariari pa, tunay na di na maaari; nauwi na lamang ang kanyang malagong buhok sa isang pusod, na ayon sa sabi ng kanyang alilang babae'y ang ulo ng bawang ang nacacasinlaki raw, ang mga culubot ng kanyang mukha'y tulad sa dinaanan ng araro at nagpapasimula na ng pag-uga ang kanyang mga ngipin, nangagdaramdam na rin naman ang kanyang mga mata, at malaki na ang ipinagdamdam, kaya't kinacailangan na niyang ga ipikit na ng caunti upang macakita sa dakong may calayuan; ang caugalian na lamang niya ang tanging sa kanya'y natira."]
+----------------------------------------
+TOKEN: magcasiya  ->  SUGGESTION: magkasiya
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['2000: Namaguitna ang sacristan mayor, nagtinig ang cura at sinabi sa akin sa wikang tagalog na nagagalit:—"Howag mong paggamitan ako ng hiram na mga damit; magcasiya ka na lamang sa pagsasalita ng iyong sariling wika, at howag mong sirain ang wikang castilang hindi ucol sa inyo.', '2004: ¿Ano ang aking magagawa akong bahagya na magcasiya sa akin ang aking sueldo, na upang masingil ko ang sueldong ito\'y aking kinacailangan ang "visto bueno" ng cura at maglacbay ako sa "cabecera" (pangulong bayan) ng lalawigan; ano ang magagawa kong laban sa kanya, na siyang pangulong puno ng calolowa, ng pamamayan at ng pamumuhay sa isang bayan, linalampihan ng kanyang capisanan, kinatatacutan ng Gobierno, mayaman, macapangyarihan, pinagtatanungan, pinakikinggan, pinaniniwalaan at linilingap ng lahat?', "2052: Nacapapaso sa akin ang kanilang mga luha: hindi magcasiya sa loob ng aking dibdib ang aking puso, at ng araw na iyo'y iniwan ko ang pagtuturo, baga man di pa sumasapit ang horas, at omowi ako sa aking bahay upang tumangis na nagiisa...."]
+----------------------------------------
+TOKEN: nacalulugod  ->  SUGGESTION: nakalulugod
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["845: Pabayaan nating maglacbay ang binatang nagdidilidili o nacacatulog: ang hiwagang malungcot o masaya ng catapangang hindi nacacaakit ng kanyang gunamgunam: ang araw na iyong nagpapapakintab sa mga dulo ng mga kahoy at nagpapatacbo sa mga tagabukid na nangapapaso ang mga paa sa nagbabagang lupa, baga man sila'y may panyapac na mga lipac; ang araw na iyong pumipiguil sa isang babaeng tagabukid sa lilim ng isang talisay o cawayanan, at sa kanya'y nagpapaisip ng mga bagaybagay na walang catuturan at di mapagwari, ang isip na iyo'y hindi nacalulugod sa ating binata.", "3847: Sa dakong ibaba ng bintana'y may isang dalagang nacalulugod ang ganda ng mukha, mahalaga ang suut na damit at may kilic na isang musmos na lalaki.", '4094: Ang malalaking mga lubid na nacabitin sa lahat ng mga panig, ang siyang nacapagbibigay anyong catibayan at cadakilaan ng cabooang nacocoronahan doon sa itaas ng mga banderang may sarisaring kulay; manga gallardete na nagsisiwagayway at lubhang malalaking mga guirnaldang bulaklak at mga dahong totoong nacalulugod panoorin.']
+----------------------------------------
+TOKEN: cawalang  ->  SUGGESTION: kawalang
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["6215: Sa cawalang palad ay lumapit ang isang tao at sa kanila'y nagsabi:", '6273: Ang cochero ni Sinang, na naghahatid dito at sa kanyang pinsang babae sa isang mainam na carruajeng "tres-por-ciento\'y" nagcaroon ng cawalang galangang sigawan siya ng "¡tabi!', '6341: Sa cawalang capalaran ay dumating ang cura na siyang pumayapa.']
+----------------------------------------
+TOKEN: pintacasi  ->  SUGGESTION: pintakasi
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ["566: Kung dahil sa isang malaking caguipita'y manacanacang kinacailangan ang mga saclolo ng calangitan at walang makita agad kahi't isang candilang pula ng insic, kung magcagayo'y nakikiusap na siya sa mga santo at sa mga santang kanyang pintacasi, at ipinangangaco sa kanila ang maraming bagay upang sila'y mapilitan at lubos mapapaniwalaang tunay na magaling ang kanyang mga hangad.", '792: —Hala, magsindi ka ng dalawang candilang mangahati, ang isay sa Señor San Rafael, pintacasi ng mga naglalacbay.', "1289: —¡Kayo'y carapatdapat sa pangalan ng inyong pintacasi!"]
+----------------------------------------
+TOKEN: cancion  ->  SUGGESTION: kancion
+Pattern: C_TO_K, Freq: 5, Conf: HIGH
+Contexts:
+  ['2729: —¡Cantahin mo, Victoria, "Ang cancion ng Matrimonio"!', '2732: "Ang cancion ng Matrimonio\'y" isang magandang tulang tagalog na nagsasaysay ng mga cahirapan at mga calungcutan ng matrimonio, na hindi binabangguit ang alin man sa kanyang mga catuwaan.', '2734: —Pawang malulungcot na lahat ang aking mga "cancion".']
+----------------------------------------
