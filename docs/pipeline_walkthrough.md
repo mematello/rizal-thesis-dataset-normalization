@@ -3,7 +3,7 @@
 This document explains the step-by-step reproducible pipeline for the Rizal Thesis Dataset Normalization project.
 
 ## 1. Extraction (Phase 1)
-Raw HTML texts from Project Gutenberg (`data/raw/`) are parsed to remove boilerplate and structure the text into rows representing narrative paragraphs. Output goes to `data/intermediate/01_extraction/`.
+Raw HTML texts from Project Gutenberg (`data/raw/`) are parsed to remove boilerplate and structure the text into rows representing narrative paragraphs. Output goes to `data/intermediate/01_extraction/`. *(For details on the exact Project Gutenberg source files and licensing, see the **Source Material** section in `README.md`.)*
 
 ## 2. Orthographic Normalization (Phase A-C)
 Intermediate extraction CSVs are passed through Unicode normalization (NFC) and archaic character cleaning (e.g., `g̃` → `g`, `ñg` → `ng`, diacritic stripping). Output goes to `data/intermediate/02_ortho_norm/`.

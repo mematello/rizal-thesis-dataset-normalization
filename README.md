@@ -3,8 +3,20 @@
 ## Project Overview
 This project produces high-quality, normalized datasets of Dr. Jose Rizal's two major novels, **Noli Me Tangere** and **El Filibusterismo**, for Natural Language Processing (NLP) tasks. The primary goal is to convert the historical 19th-century Tagalog orthography into a form compatible with modern Filipino language models (specifically XLM-RoBERTa), while strictly preserving sentence segmentation and paragraph structure.
 
+## Source Material
+
+The raw texts for this project were sourced from Project Gutenberg. The two HTML files located in `data/raw/` are the exact source snapshots used for the extraction phase.
+
+*   **Noli Me Tangere** (Tagalog translation by Pascual H. Poblete)
+    *   Project Gutenberg eBook #20228
+    *   [https://www.gutenberg.org/ebooks/20228](https://www.gutenberg.org/ebooks/20228)
+*   **Ang "Filibusterismo" (Karugtóng ng Noli Me Tangere)** (Tagalog translation by Patricio Mariano)
+    *   Project Gutenberg eBook #47629
+    *   [https://www.gutenberg.org/ebooks/47629](https://www.gutenberg.org/ebooks/47629)
+
+*Note: Both translations are in the public domain in the US per Project Gutenberg's license.*
+
 ## Processing Pipeline Overview
-The text undergoes a strict, auditable 6-stage pipeline:
 
 1.  **Extraction**: Raw text is parsed from Project Gutenberg HTML source files into a structured CSV format. Front matter is removed.
 2.  **Phase A–C (Orthographic Normalization)**:
