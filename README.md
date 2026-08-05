@@ -27,8 +27,12 @@ The text undergoes a strict, auditable 6-stage pipeline:
 These are the frozen, normalized, and modernized files approved for final modeling.
 | File | Description |
 | :--- | :--- |
-| **`noli_chapter_sentences_FINAL_v2.csv`** | **Final Noli Me Tangere Dataset**. |
-| **`elfili_chapter_sentences_FINAL_v2.csv`** | **Final El Filibusterismo Dataset**. |
+| **`data/final/noli_chapter_sentences_FINAL_v2.csv`** | **Final Noli Me Tangere Dataset**. |
+| **`data/final/elfili_chapter_sentences_FINAL_v2.csv`** | **Final El Filibusterismo Dataset**. |
+
+> [!WARNING]
+> **Experimental Branch (LLM Modernization)**
+> The `experiments/` directory contains `modernize_noli.py` and `FINAL_v3.csv` artifacts. This script uses the OpenAI API to perform semantic modernization. Because it relies on external non-deterministic models, it is **NOT** part of the reproducible core pipeline. Do not use for reproducibility audits.
 
 ### Intermediate Files (For Reference)
 | File | Phase | Description |
@@ -42,15 +46,15 @@ These are the frozen, normalized, and modernized files approved for final modeli
 ### Configuration & Logs
 | File | Description |
 | :--- | :--- |
-| `phase_d6_proposal.md` | The final proposal document categorizing tokens as Safe (A), Review (B), or Preserve (C). |
-| `phase_d6_apply.py` | The script used for the final application of Phase D.6 rules. |
-| `phase_d6_log_*.csv` | **Audit Log**: Every change made in the final phase. |
-| `walkthrough.md` | Comprehensive chronological log of all technical decisions and phases. |
+| `data/phase_d6_proposal.md` | The final proposal document categorizing tokens as Safe (A), Review (B), or Preserve (C). |
+| `scripts/phase_d6_apply.py` | The script used for the final application of Phase D.6 rules. |
+| `logs/lexical/phase_d6_log_*.csv` | **Audit Log**: Every change made in the final phase. |
+| `docs/pipeline_walkthrough.md` | Comprehensive chronological log of all technical decisions and phases. |
 
 ## Which files should I use?
 
 ### For Modern NLP Modeling
-Use the **`FINAL_v2.csv`** files. These align best with the vocabulary of modern pre-trained models like XLM-RoBERTa while respecting the historical context of the novels (preserving Spanish loans and names).
+Use the **`data/final/*_FINAL_v2.csv`** files. These align best with the vocabulary of modern pre-trained models like XLM-RoBERTa while respecting the historical context of the novels (preserving Spanish loans and names).
 
 ### For Historical Analysis
 Use the **`*_chapter_sentences.csv`** (Segmentation phase) files. These retain archaic spellings (`cung`, `saca`) but remove noise (junk diacritics) for cleaner character-level analysis.
